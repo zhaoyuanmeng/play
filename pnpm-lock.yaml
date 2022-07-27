@@ -19,6 +19,7 @@ specifiers:
   eslint-plugin-prettier: ^4.2.1
   eslint-plugin-vue: ^9.2.0
   husky: ^8.0.1
+  konva: ^8.3.10
   lint-staged: ^13.0.3
   pinia: ^2.0.15
   prettier: ^2.7.1
@@ -33,6 +34,7 @@ dependencies:
   '@vueuse/core': 8.9.2_vue@3.2.37
   '@vueuse/integrations': 8.9.1_axios@0.27.2+vue@3.2.37
   axios: 0.27.2
+  konva: 8.3.10
   pinia: 2.0.15_j6bzmzd4ujpabbp5objtwxyjp4
   vue: 3.2.37
   vue-router: 4.1.2_vue@3.2.37
@@ -2337,6 +2339,10 @@ packages:
     resolution: {integrity: sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==}
     engines: {node: '>=0.10.0'}
     dev: true
+
+  /konva/8.3.10:
+    resolution: {integrity: sha512-5zOynjWBG9wWgpA634SDH+764eyoISpmHLTOCfQ3GFN8OBVd83Genk6H0R4D3hXV0kEGIFAv7RDcSVDtQpPOMw==}
+    dev: false
 
   /levn/0.4.1:
     resolution: {integrity: sha512-+bT2uH4E5LGE7h/n3evcS/sQlJXCpIp6ym8OWJ5eV6+67Dsql/LaaT7qJBAt2rzfoa/5QBGBhxDix1dMt2kQKQ==}
