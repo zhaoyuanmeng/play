@@ -45,9 +45,10 @@ const uploadFile = async () => {
   // 请求接口
   const CancelToken = axios.CancelToken;
   const source = CancelToken.source();
-  const res = await axios.post('/upload', form, {
+  const res = await axios.post('/api/file/upload', form, {
     cancelToken: source.token,
   });
+  console.log('adad', res);
   cancelFn = source.cancel as any;
 };
 
