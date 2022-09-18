@@ -21,7 +21,8 @@
     "pinia": "^2.0.15",
     "sass": "^1.54.0",
     "vue": "^3.2.25",
-    "vue-router": "^4.1.2"
+    "vue-router": "^4.1.2",
+    "ycanvas": "^1.0.9"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",

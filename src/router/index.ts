@@ -43,6 +43,14 @@ const routes: Array<RouteRecordRaw> = [
     },
     component: () => import('@/pages/t2.vue'),
   },
+  {
+    path: '/c1',
+    name: 'C1',
+    meta: {
+      title: 'canvass',
+    },
+    component: () => import('@/pages/c1.vue'),
+  },
 ];
 
 const router = createRouter({
