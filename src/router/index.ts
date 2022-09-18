@@ -51,6 +51,22 @@ const routes: Array<RouteRecordRaw> = [
     },
     component: () => import('@/pages/c1.vue'),
   },
+  {
+    path: '/excelImp',
+    name: 'excelImp',
+    meta: {
+      title: 'excelImp',
+    },
+    component: () => import('@/pages/excelImport.vue'),
+  },
+  {
+    path: '/excelExp',
+    name: 'excelExp',
+    meta: {
+      title: 'excelExp',
+    },
+    component: () => import('@/pages/excelExport.vue'),
+  },
 ];
 
 const router = createRouter({
