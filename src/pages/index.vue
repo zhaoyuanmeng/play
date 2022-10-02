@@ -10,7 +10,8 @@ export default defineComponent({
   name: 'VueUse',
   setup() {
     const { x, y } = useMouse();
-
+    let test = 'aada';
+    let test1 = 'bbbb';
     return {
       x,
       y,

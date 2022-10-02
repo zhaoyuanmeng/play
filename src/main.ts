@@ -7,5 +7,4 @@ const app = createApp(App);
 
 app.use(router); // 挂载路由
 app.use(store); // 挂载pinia
-
 app.mount('#app');
