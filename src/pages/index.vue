@@ -9,8 +9,19 @@ import { useMouse } from '@vueuse/core';
 export default defineComponent({
   name: 'VueUse',
   setup() {
+    const test: any = (a: any) => {
+      let b = a;
+      b.name = 'asda';
+      console.log(a);
+    };
+    let obj = {
+      name: 'zyd',
+    };
+
+    test(obj);
+
+    console.log(obj);
     const { x, y } = useMouse();
-    let test = 'aada';
     let test1 = 'bbbb';
     return {
       x,
