@@ -67,6 +67,14 @@ const routes: Array<RouteRecordRaw> = [
     },
     component: () => import('@/pages/excelExport.vue'),
   },
+  {
+    path: '/daping',
+    name: 'daping',
+    meta: {
+      title: 'daping',
+    },
+    component: () => import('@/pages/daping/index.vue'),
+  },
 ];
 
 const router = createRouter({
