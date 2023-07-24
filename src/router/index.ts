@@ -83,6 +83,14 @@ const routes: Array<RouteRecordRaw> = [
     },
     component: () => import('@/pages/test/views/d360.vue'),
   },
+  {
+    path: '/d361',
+    name: 'd361',
+    meta: {
+      title: 'd361',
+    },
+    component: () => import('@/pages/test/views/d361.vue'),
+  },
 ];
 
 const router = createRouter({

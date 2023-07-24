@@ -6,7 +6,6 @@
     "target": "esnext",
     "useDefineForClassFields": true,
     "module": "esnext",
-    "suppressImplicitAnyIndexErrors": true,
     "moduleResolution": "node",
     "strict": true,
     "jsx": "preserve",

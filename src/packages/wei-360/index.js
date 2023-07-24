@@ -1,5 +1,7 @@
 import component from './src/index.vue';
-component.install = function(Vue) {
-    Vue.component(component.name, component);
+import componentPlus from './src/indexPlus.vue';
+component.install = function (Vue) {
+  Vue.component(component.name, component);
+  Vue.component(componentPlus.name, componentPlus);
 };
 export default component;

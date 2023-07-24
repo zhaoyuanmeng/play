@@ -79,7 +79,7 @@
 </template>
 
 <script>
-import { Viewer, Animation } from 'wei-photo-js';
+import { Viewer } from 'wei-photo-js';
 import 'wei-photo-js/dist/wei-photo-js.css';
 import 'wei-photo-js/dist/plugins/markers.css';
 import canvas from './canvas';
@@ -202,11 +202,13 @@ export default {
     },
   },
   mounted() {
-    // if (this.$scopedSlots.loading && this.$scopedSlots.loading()) {
-    //   this.isSlotLoading = true;
-    // } else {
-    //   this.isSlotLoading = false;
-    // }
+    // vue3 改写了这种模式this.$slots
+    // console.log('aaaaaaaaabbbbbbbbbbbb', this.$slots);
+    if (this.$slots.loading && this.$slots.loading()) {
+      this.isSlotLoading = true;
+    } else {
+      this.isSlotLoading = false;
+    }
   },
   destroyed() {
     //释放内存
@@ -220,6 +222,8 @@ export default {
   position: relative;
   height: 400px;
   width: 400px;
+  left: 50%;
+  transform: translateX(-50%);
   .psv-canvas-container {
     z-index: 2;
   }
