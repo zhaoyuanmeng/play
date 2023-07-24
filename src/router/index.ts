@@ -75,6 +75,14 @@ const routes: Array<RouteRecordRaw> = [
     },
     component: () => import('@/pages/daping/index.vue'),
   },
+  {
+    path: '/d360',
+    name: 'd360',
+    meta: {
+      title: 'd360',
+    },
+    component: () => import('@/pages/test/views/d360.vue'),
+  },
 ];
 
 const router = createRouter({
