@@ -91,6 +91,14 @@ const routes: Array<RouteRecordRaw> = [
     },
     component: () => import('@/pages/test/views/d361.vue'),
   },
+  {
+    path: '/d720',
+    name: 'd720',
+    meta: {
+      title: 'd720',
+    },
+    component: () => import('@/pages/test/views/d720.vue'),
+  },
 ];
 
 const router = createRouter({

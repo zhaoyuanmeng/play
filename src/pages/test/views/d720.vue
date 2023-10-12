@@ -1,4 +1,3 @@
-
 <template>
   <div style="text-align: center">
     <div>
@@ -24,24 +23,22 @@
           </div>
         </wei-markers>
       </wei-photo>
-      <div style="position">
+      <!-- <div style="position">
         <button @click="methodsPanorama">
           方法切换场景，带加载进度{{ loadNum }}
         </button>
         <button @click="panorama = panorama1">
           变量动态切换场景，无法监听加载进度
         </button>
-         <button @click="autoRota">
-          自动旋转
-        </button>
-      </div>
+        <button @click="autoRota">自动旋转</button>
+      </div> -->
     </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: "demo",
+  name: 'demo',
   data() {
     return {
       options: {
@@ -54,27 +51,28 @@ export default {
         //缓动
         moveInertia: true,
       },
-      panorama: "",
-      panorama1: require("../assets/p4.jpeg"),
-      panorama2: require("../assets/p3.jpeg"),
+      panorama: '',
+
+      panorama1: new URL(`../assets/p4.jpeg`, import.meta.url).href,
+      panorama2: new URL(`../assets/p3.jpeg`, import.meta.url).href,
       markers: [
         {
-          title: "息州大道1",
+          title: '息州大道1',
           // positionX:'center',
           // positionY:'center',
           latitude: -0.6951847265465538,
           longitude: 1.0576435302000715,
-          borderColor: "rgba(239, 168, 14, 1)",
+          borderColor: 'rgba(239, 168, 14, 1)',
         },
         {
-          title: "息州大道2",
+          title: '息州大道2',
           latitude: -0.3853725556846837,
           longitude: 0.4663614356302664,
-          borderColor: "rgba(239, 168, 14, 1)",
+          borderColor: 'rgba(239, 168, 14, 1)',
         },
         {
           svgStyle: {
-            fill: "rgba(0, 255, 243, 0.52)",
+            fill: 'rgba(0, 255, 243, 0.52)',
           },
           polylineRad: [
             [5.717759501961227, -0.39914442457653276],
@@ -84,12 +82,12 @@ export default {
           ],
         },
       ],
-      loadNum: "",
+      loadNum: '',
     };
   },
   mounted() {
     setTimeout(() => {
-      this.panorama = require("../assets/indexBg.jpg");
+      this.panorama = new URL(`../assets/test.png`, import.meta.url).href;
     }, 2000);
   },
   methods: {
@@ -97,16 +95,16 @@ export default {
       console.log(data);
     },
     over(item) {
-      console.log("进入", item.title);
+      console.log('进入', item.title);
     },
     markerChange(item) {
-      console.log(item, "f.c");
+      console.log(item, 'f.c');
     },
     leave(item) {
-      console.log("离开", item.title);
+      console.log('离开', item.title);
     },
-    autoRota(){
-      this.photo.autoRota()
+    autoRota() {
+      this.photo.autoRota();
     },
     methodsPanorama() {
       this.photo
@@ -118,7 +116,7 @@ export default {
         });
     },
     ready(val) {
-      console.log("ok");
+      console.log('ok');
     },
   },
 };

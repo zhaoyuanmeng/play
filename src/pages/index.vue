@@ -1,32 +1,53 @@
 <template>
-  <h1>测试 vueUse 的鼠标坐标</h1>
-  <h3>Mouse: {{ x }} x {{ y }}</h3>
+  <div id="H5Video">
+    <div id="player" style="width: 400px; height: 400px"></div>
+  </div>
 </template>
-<script lang="ts">
-import { defineComponent } from 'vue';
-import { useMouse } from '@vueuse/core';
+<script setup>
+import { ref, onMounted } from 'vue';
 
-export default defineComponent({
-  name: 'VueUse',
-  setup() {
-    const test: any = (a: any) => {
-      let b = a;
-      b.name = 'asda';
-      console.log(a);
-    };
-    let obj = {
-      name: 'zyd',
-    };
+let player = ref({});
 
-    test(obj);
+function createPlayer() {
+  player.value = new window.JSPlugin({
+    szId: 'player',
+    szBasePath: './',
+    iMaxSplit: 4,
+    iCurrentSplit: 1,
+    openDebug: true,
+  });
+}
 
-    console.log(obj);
-    const { x, y } = useMouse();
-    let test1 = 'bbbb';
-    return {
-      x,
-      y,
-    };
-  },
+function init() {
+  // 设置播放容器的宽高并监听窗口大小变化
+  window.addEventListener('resize', () => {
+    player.value.JS_Resize();
+  });
+}
+
+// 播放
+function realplay() {
+  let index = player.value.currentWindowIndex;
+  let playURL = 'ws://203.110.222.92:559/openUrl/i1UQDFS';
+  player.value.JS_Play(playURL, { playURL, mode: 1 }, index).then(
+    () => {
+      console.log('realplay success');
+    },
+    (e) => {
+      console.error(e);
+    },
+  );
+}
+
+// init();
+
+onMounted(() => {
+  setTimeout(() => {
+    createPlayer();
+    realplay();
+    init();
+  }, 10);
 });
 </script>
+
+<style></style>

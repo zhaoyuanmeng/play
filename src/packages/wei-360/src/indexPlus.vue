@@ -138,6 +138,7 @@ const initImgData = (fun) => {
 };
 //初始化
 const inits = (argoptions) => {
+  if (photo.value == null) return;
   let defaultOptions = {
     is360: props.isDeep,
     container: photo.value,
@@ -237,12 +238,14 @@ onMounted(() => {
   } else {
     isSlotLoading.value = false;
   }
+  console.log('132222');
+  inits();
 });
 onUnmounted(() => {
   // 释放内存;
-  viewer.handle.destroy();
 });
 </script>
+
 <style lang="less">
 .wei360 {
   position: relative;

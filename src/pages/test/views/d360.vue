@@ -19,6 +19,7 @@
       <h2>加载进度：{{ loadVal }}</h2>
     </div>
   </div>
+  <div @click="handel">设置开关</div>
 </template>
 
 <script>
@@ -33,10 +34,14 @@ export default {
       isAuto: false,
       nowRota: 0,
       loadVal: 0,
+      tag: false,
     };
   },
 
   methods: {
+    handel() {
+      this.tag = !this.tag;
+    },
     //旋转事件
     rotaChange(val) {
       this.nowRota = val;

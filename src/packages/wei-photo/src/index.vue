@@ -85,15 +85,15 @@
   </div>
 </template>
 <script>
-import { Viewer, Animation } from "wei-photo-js";
-import MarkersPlugin from "wei-photo-js/dist/plugins/markers";
-import gyroPlugin from "wei-photo-js/dist/plugins/gyroscope.js";
-import "wei-photo-js/dist/wei-photo-js.css";
-import "wei-photo-js/dist/plugins/markers.css";
-import { ani1, ani1Config } from "./js/animation";
+import { Viewer, Animation } from 'wei-photo-js';
+import MarkersPlugin from 'wei-photo-js/dist/plugins/markers';
+import gyroPlugin from 'wei-photo-js/dist/plugins/gyroscope.js';
+import 'wei-photo-js/dist/wei-photo-js.css';
+import 'wei-photo-js/dist/plugins/markers.css';
+import { ani1, ani1Config } from './js/animation';
 export default {
-  name: "wei-photo",
-  props: ["options", "panorama", "markers", "animationType"],
+  name: 'wei-photo',
+  props: ['options', 'panorama', 'markers', 'animationType'],
   data() {
     return {
       markersPlugin: null,
@@ -116,7 +116,7 @@ export default {
   watch: {
     panorama: {
       handler(newVal) {
-        if (!this.$viewer || newVal == "$$methordUrl##") return;
+        if (!this.$viewer || newVal == '$$methordUrl##') return;
         this.setP(newVal);
       },
     },
@@ -124,7 +124,7 @@ export default {
   methods: {
     //方法切换场景
     setPanoramaUrl(val, fun) {
-      this.$emit("update:panorama", "$$methordUrl##");
+      this.$emit('update:panorama', '$$methordUrl##');
       return this.setP(val, fun);
     },
     //
@@ -140,10 +140,10 @@ export default {
           if (this.loadNum == 100 && !this.isOneLoad) {
             setTimeout(() => {
               //小行星
-              if (this.animationType == 1 && this.animationType != "none") {
+              if (this.animationType == 1 && this.animationType != 'none') {
                 ani1(this.$viewer, this);
                 //默认值
-              } else if (this.animationType != "none") {
+              } else if (this.animationType != 'none') {
                 ani1(this.$viewer, this);
               }
               this.markersViews = true;
@@ -157,8 +157,8 @@ export default {
         })
         .catch((e) => {
           console.error(
-            "图片加载失败请检查图片路径是否正确,注意：图片不支持跨域加载",
-            e
+            '图片加载失败请检查图片路径是否正确,注意：图片不支持跨域加载',
+            e,
           );
           this.loadingStatusErr = true;
           this.loadingStatus = false;
@@ -180,7 +180,7 @@ export default {
     //初始化
     inits(argoptions) {
       let animationConfig;
-      if (this.animationType == "none") {
+      if (this.animationType == 'none') {
         animationConfig = {};
       } else if (this.animationType == 1) {
         animationConfig = ani1Config;
@@ -190,8 +190,8 @@ export default {
 
       let defaultOptions = {
         container: this.$refs.photo,
-        panorama: "",
-        autorotateSpeed: "1rpm",
+        panorama: '',
+        autorotateSpeed: '1rpm',
         autorotateLat: 0,
         moveSpeed: 2,
         //初始缩放级别
@@ -200,7 +200,7 @@ export default {
         defaultLat: -0.2252791009931826,
         defaultLong: 0.03705944131975738,
         lang: {
-          gyroscope: "Gyroscope",
+          gyroscope: 'Gyroscope',
         },
         plugins: [
           [gyroPlugin, { absolutePosition: true }],
@@ -232,25 +232,25 @@ export default {
        * 遍历组件实例如果有没有销毁的实例那么就change
        */
       //进入
-      this.$markersPlugin.on("over-marker", (e, marker) => {
+      this.$markersPlugin.on('over-marker', (e, marker) => {
         try {
           let $slots = this.$slots.default;
           for (let i in $slots) {
             let slot = $slots[i].componentInstance;
             if (slot.markerId && slot.markerId == marker.id) {
-              slot.change("on");
+              slot.change('on');
             }
           }
         } catch (error) {}
       });
       //离开
-      this.$markersPlugin.on("leave-marker", (e, marker) => {
+      this.$markersPlugin.on('leave-marker', (e, marker) => {
         try {
           let $slots = this.$slots.default;
           for (let i in $slots) {
             let slot = $slots[i].componentInstance;
             if (slot.markerId && slot.markerId == marker.id) {
-              slot.change("off", marker);
+              slot.change('off', marker);
             }
           }
         } catch (error) {}
@@ -262,15 +262,15 @@ export default {
 
       if (this.panorama) {
         this.setP(this.panorama, (val) => {
-          this.$emit("readyNum", val);
+          this.$emit('readyNum', val);
         }).then((res) => {
-          this.$emit("ready", "1");
+          this.$emit('ready', '1');
         });
       } else {
-        console.warn("panorama:初次加载全景图为空");
+        console.warn('panorama:初次加载全景图为空');
       }
-      this.$viewer.on("click", (e, data) => {
-        this.$emit("viewChange", data);
+      this.$viewer.on('click', (e, data) => {
+        this.$emit('viewChange', data);
       });
 
       // this.$viewer.on("select-marker", (e, data) => {
@@ -288,9 +288,9 @@ export default {
         startGyro: this.startGyro,
         stopGyro: this.stopGyro,
         isGyro: this.isGyro,
-        viewer:this.$viewer,
-        setOption: (o,val) => {
-          this.$viewer.setOption(o,val);
+        viewer: this.$viewer,
+        setOption: (o, val) => {
+          this.$viewer.setOption(o, val);
         },
         autoRota: () => {
           this.$viewer.startAutorotate();
@@ -304,11 +304,11 @@ export default {
         this.inits();
       }
     });
-    if (this.$scopedSlots.loading && this.$scopedSlots.loading()) {
-      this.isSlotLoading = true;
-    } else {
-      this.isSlotLoading = false;
-    }
+    // if (this.$scopedSlots.loading && this.$scopedSlots.loading()) {
+    //   this.isSlotLoading = true;
+    // } else {
+    //   this.isSlotLoading = false;
+    // }
   },
   destroyed() {
     //释放内存
@@ -316,8 +316,8 @@ export default {
   },
 };
 </script>
-<style lang="less" >
-@import "./css/index.less";
+<style lang="less">
+@import './css/index.less';
 .photoContainer {
   position: relative;
   z-index: 0;

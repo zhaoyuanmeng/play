@@ -1,31 +1,38 @@
 <template>
   <h1>Canvas</h1>
-  <canvas  width="600" height="600" class="can" id="canvas2"></canvas>
+  <canvas width="600" height="600" class="can" id="canvas2"></canvas>
 </template>
 <script lang="ts" setup>
 import { onMounted, ref } from 'vue';
-import {Arc, CanvasEngine, Rect, EventName} from 'ycanvas'
+import { Arc, CanvasEngine, Rect, EventName } from 'ycanvas';
 const el = ref<HTMLCanvasElement>();
+
+import { testApi } from '@/api/test';
 // 实现平移的效果
-onMounted(() => {
- const engine2 = new CanvasEngine({
-      w: '200',
-      h: '200',
-      canvasTarget: '#canvas2'
-    })
-    const rect1 = new Rect(10, 20, 80, 80, 0)
-    engine2.render(rect1, {
-      color: 'purple'
-    })
+onMounted(async () => {
+  for (let i = 0; i < 5000; i++) {
+    let res = await testApi();
+  }
+  console.log('res', res);
 
-    // 思路是绑定拖拽事件
+  const engine2 = new CanvasEngine({
+    w: '200',
+    h: '200',
+    canvasTarget: '#canvas2',
+  });
+  const rect1 = new Rect(10, 20, 80, 80, 0);
+  engine2.render(rect1, {
+    color: 'purple',
+  });
 
-    engine2.addEventListener(rect1, EventName.click, (item) => {
-      // 看看这里面能做哪些事情 这是点击事件了
-      console.log(item,'item');
-      // 我们能拿到item 这个item里面有很多的东西  
-      alert('rect1 clicked')
-    })
+  // 思路是绑定拖拽事件
+
+  engine2.addEventListener(rect1, EventName.click, (item) => {
+    // 看看这里面能做哪些事情 这是点击事件了
+    console.log(item, 'item');
+    // 我们能拿到item 这个item里面有很多的东西
+    alert('rect1 clicked');
+  });
 });
 </script>
 
