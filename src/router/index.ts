@@ -45,6 +45,14 @@ const routes: Array<RouteRecordRaw> = [
     component: () => import('@/pages/t1.vue'),
   },
   {
+    path: '/qjt',
+    name: 'Qjt',
+    meta: {
+      title: '全景图',
+    },
+    component: () => import('@/pages/qjt.vue'),
+  },
+  {
     path: '/t2',
     name: 'Test2',
     meta: {
@@ -59,22 +67,6 @@ const routes: Array<RouteRecordRaw> = [
       title: 'canvass',
     },
     component: () => import('@/pages/c1.vue'),
-  },
-  {
-    path: '/excelImp',
-    name: 'excelImp',
-    meta: {
-      title: 'excelImp',
-    },
-    component: () => import('@/pages/excelImport.vue'),
-  },
-  {
-    path: '/excelExp',
-    name: 'excelExp',
-    meta: {
-      title: 'excelExp',
-    },
-    component: () => import('@/pages/excelExport.vue'),
   },
   {
     path: '/daping',
