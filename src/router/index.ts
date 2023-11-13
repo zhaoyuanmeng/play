@@ -12,6 +12,15 @@ const routes: Array<RouteRecordRaw> = [
     component: () => import('@/pages/index.vue'),
   },
   {
+    path: '/leaflet',
+    name: 'Ceaflet',
+    meta: {
+      title: 'leaflet',
+      keepAlive: false,
+    },
+    component: () => import('@/pages/leaflet.vue'),
+  },
+  {
     path: '/canvas',
     name: 'Canvas',
     meta: {

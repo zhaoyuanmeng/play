@@ -1,0 +1,185 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": [
+    {
+      "leaseDetail": {
+        "code": "ZL004A0701",
+        "title": "4号楼A座701",
+        "status": 128,
+        "tenant": null,
+        "intentionFlag": 1,
+        "x": null,
+        "y": null,
+        "z": null,
+        "areaStructure": "401.28",
+        "areaUsable": "239.65"
+      },
+      "listIntendedInfo": [
+        {
+          "hangyeType": "智能网联",
+          "customerType": "公司",
+          "intentionedArea": "401.28",
+          "industryType": "计算机软件",
+          "intendedCompany": "北京易华录信息股份有限公司",
+          "location": "4号楼A座701"
+        },
+        {
+          "hangyeType": "智能网联",
+          "customerType": "公司",
+          "intentionedArea": "401.28",
+          "industryType": "汽车&摩托车",
+          "intendedCompany": "河北千方雄安科技有限公司",
+          "location": "4号楼A座701"
+        }
+      ]
+    },
+    {
+      "leaseDetail": {
+        "code": "ZL004A0702",
+        "title": "4号楼A座702",
+        "status": 128,
+        "tenant": null,
+        "intentionFlag": 1,
+        "x": null,
+        "y": null,
+        "z": null,
+        "areaStructure": "583.41",
+        "areaUsable": "348.42"
+      },
+      "listIntendedInfo": [
+        {
+          "hangyeType": "智能网联",
+          "customerType": "公司",
+          "intentionedArea": "583.41",
+          "industryType": "汽车&摩托车",
+          "intendedCompany": "中电信数字城市科技有限公司",
+          "location": "4号楼A座702"
+        }
+      ]
+    },
+    {
+      "leaseDetail": {
+        "code": "ZL005C0604",
+        "title": "5号楼C座604",
+        "status": 128,
+        "tenant": null,
+        "intentionFlag": 0,
+        "x": null,
+        "y": null,
+        "z": null,
+        "areaStructure": "11.38",
+        "areaUsable": "8.22"
+      },
+      "listIntendedInfo": []
+    },
+    {
+      "leaseDetail": {
+        "code": "ZL005C0605",
+        "title": "5号楼C座605",
+        "status": 128,
+        "tenant": null,
+        "intentionFlag": 0,
+        "x": null,
+        "y": null,
+        "z": null,
+        "areaStructure": "15.13",
+        "areaUsable": "10.93"
+      },
+      "listIntendedInfo": []
+    },
+    {
+      "leaseDetail": {
+        "code": "ZL004A0703",
+        "title": "4号楼A座703",
+        "status": 128,
+        "tenant": null,
+        "intentionFlag": 0,
+        "x": null,
+        "y": null,
+        "z": null,
+        "areaStructure": "327.65",
+        "areaUsable": "195.68"
+      },
+      "listIntendedInfo": []
+    },
+    {
+      "leaseDetail": {
+        "code": "ZL004A0704",
+        "title": "4号楼A座704",
+        "status": 128,
+        "tenant": null,
+        "intentionFlag": 0,
+        "x": null,
+        "y": null,
+        "z": null,
+        "areaStructure": "681.04",
+        "areaUsable": "406.73"
+      },
+      "listIntendedInfo": []
+    },
+    {
+      "leaseDetail": {
+        "code": "ZL005C0602",
+        "title": "5号楼C座602",
+        "status": 128,
+        "tenant": null,
+        "intentionFlag": 1,
+        "x": null,
+        "y": null,
+        "z": null,
+        "areaStructure": "1005.12",
+        "areaUsable": "725.86"
+      },
+      "listIntendedInfo": [
+        {
+          "hangyeType": "空天信息",
+          "customerType": "公司",
+          "intentionedArea": "1005.12",
+          "industryType": "航空&航天研究与制造",
+          "intendedCompany": "星网数科",
+          "location": "5号楼C座602"
+        }
+      ]
+    },
+    {
+      "leaseDetail": {
+        "code": "ZL005C0603",
+        "title": "5号楼C座603",
+        "status": 128,
+        "tenant": null,
+        "intentionFlag": 0,
+        "x": null,
+        "y": null,
+        "z": null,
+        "areaStructure": "8.03",
+        "areaUsable": "5.8"
+      },
+      "listIntendedInfo": []
+    },
+    {
+      "leaseDetail": {
+        "code": "ZL005C0601",
+        "title": "5号楼C座601",
+        "status": 128,
+        "tenant": null,
+        "intentionFlag": 1,
+        "x": null,
+        "y": null,
+        "z": null,
+        "areaStructure": "1827.76",
+        "areaUsable": "1319.94"
+      },
+      "listIntendedInfo": [
+        {
+          "hangyeType": "空天信息",
+          "customerType": "公司",
+          "intentionedArea": "1827.76",
+          "industryType": "政府&公共事业&非盈利机构",
+          "intendedCompany": "空天信息联盟",
+          "location": "5号楼C座601"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "三号楼": [
+    {
+      "id": "1f7d69d0-bb6f-4291-a999-b461105f0770",
+      "code": "ZL003A",
+      "title": "3号楼A座"
+    },
+    {
+      "id": "fbf5f8cb-e6e2-4ebc-be64-17e6c085977a",
+      "code": "ZL003B",
+      "title": "3号楼B座"
+    },
+    {
+      "id": "af986128-6137-451f-a64f-5e551988303a",
+      "code": "ZL003C",
+      "title": "3号楼C座"
+    },
+    {
+      "id": "78e028b1-bfbc-41f5-9452-3ded5bdee594",
+      "code": "QL003",
+      "title": "3号楼裙楼"
+    },
+    {
+      "id": "5d652615-73bc-433d-a289-b9e0b628fc9f",
+      "code": "SYDS03",
+      "title": "3号楼底商"
+    }
+  ],
+  "四号楼": [
+    {
+      "id": "b407f307-0a4c-46df-810d-c1d6deae4d9d",
+      "code": "ZL004A",
+      "title": "4号楼A座"
+    },
+    {
+      "id": "7b85be9a-46da-4b67-9f69-ea9023bcc68e",
+      "code": "ZL004B",
+      "title": "4号楼B座"
+    },
+    {
+      "id": "12cb0938-5649-4453-8eae-7f3749beab7c",
+      "code": "QL004",
+      "title": "4号楼裙楼"
+    },
+    {
+      "id": "5be31b09-e1ee-4da2-9284-f5961d392f0f",
+      "code": "SYDS04",
+      "title": "4号楼底商"
+    }
+  ],
+  "五号楼": [
+    {
+      "id": "5f8fcc72-612c-4450-a1c2-5458a5659c62",
+      "code": "ZL005A",
+      "title": "5号楼A座"
+    },
+    {
+      "id": "deaeca14-d9bf-4eda-89c3-ae3ac96f571e",
+      "code": "ZL005B",
+      "title": "5号楼B座"
+    },
+    {
+      "id": "9606182d-7504-4c25-ae55-7e4c91514e5d",
+      "code": "ZL005C",
+      "title": "5号楼C座"
+    },
+    {
+      "id": "5f4b0dd2-090a-42a7-babe-99afcd6272e6",
+      "code": "QL005",
+      "title": "5号楼裙楼"
+    },
+    {
+      "id": "81ac3e87-68fe-46bd-a2ad-14ab8d05be1f",
+      "code": "SYDS05",
+      "title": "5号楼底商"
+    }
+  ],
+  "六号楼": [
+    {
+      "id": "0cd633f8-6286-4f53-9956-02fbbd1d0a48",
+      "code": "ZL006",
+      "title": "6号楼"
+    },
+    {
+      "id": "5926fa14-95b7-4e7e-9508-dc46241e3e70",
+      "code": "SYDS06",
+      "title": "6号楼底商"
+    }
+  ]
+}

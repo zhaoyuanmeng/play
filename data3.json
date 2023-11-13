@@ -1,0 +1,2377 @@
+{
+  "三号楼": [
+    {
+      "id": "0ed565ce-d042-4068-9f66-c6f4b5048b3a",
+      "code": "SYDS0301",
+      "title": "3号楼底商1层",
+      "subnodes": [
+        {
+          "id": "67d70941-58a9-4d9a-ab88-0b10131e3237",
+          "code": "SYDS030101",
+          "title": "3号楼底商101"
+        },
+        {
+          "id": "0b1bd47f-fe54-4cf8-81e8-16e6abea03d0",
+          "code": "SYDS030102",
+          "title": "3号楼底商102"
+        },
+        {
+          "id": "b4ae4d70-2626-470a-ba89-7802a7a25486",
+          "code": "SYDS030103",
+          "title": "3号楼底商103"
+        },
+        {
+          "id": "dc42b75a-334a-43c9-b8d5-8d14a6627eab",
+          "code": "SYDS030104",
+          "title": "3号楼底商104"
+        },
+        {
+          "id": "90fd4778-e801-4622-aff2-19e9a0659599",
+          "code": "SYDS030105",
+          "title": "3号楼底商105"
+        },
+        {
+          "id": "6243a75c-b445-4af7-bc98-3586c13fe4d0",
+          "code": "SYDS030106",
+          "title": "3号楼底商106"
+        },
+        {
+          "id": "1d75b6ac-8c12-4b65-a9db-64d7a1b5895c",
+          "code": "SYDS030107",
+          "title": "3号楼底商107"
+        },
+        {
+          "id": "8894c469-9dc6-4d57-81ab-04703f5a9a8f",
+          "code": "SYDS030108",
+          "title": "3号楼底商109"
+        },
+        {
+          "id": "eb92cd6b-bbda-4e83-9db3-a271c38fa2f0",
+          "code": "SYDS030109",
+          "title": "3号楼底商110"
+        }
+      ]
+    },
+    {
+      "id": "b37a32f6-bf7f-41e6-896a-8b2f864ebc63",
+      "code": "QL00303",
+      "title": "3号楼裙楼3层",
+      "subnodes": [
+        {
+          "id": "e2c50928-fd67-4786-b13e-ee95ae00210f",
+          "code": "QL0030301",
+          "title": "3号楼301"
+        },
+        {
+          "id": "c79d670a-c7b5-4b90-88da-9053ba681092",
+          "code": "QL0030302",
+          "title": "3号楼302"
+        },
+        {
+          "id": "831a4123-41f6-4198-badb-5d29185e9afd",
+          "code": "QL0030303",
+          "title": "3号楼303"
+        },
+        {
+          "id": "d93d6958-18a3-473b-ad71-7b77707cb066",
+          "code": "QL0030304",
+          "title": "3号楼304"
+        },
+        {
+          "id": "8534bd2d-fa33-4e8a-a454-f52ba950a629",
+          "code": "QL0030305",
+          "title": "3号楼305"
+        },
+        {
+          "id": "2c6f8b5a-1e78-4298-8ef0-38f9d2bb68ab",
+          "code": "QL0030306",
+          "title": "3号楼306"
+        },
+        {
+          "id": "39ffa881-7168-4140-92ad-c6082f042e55",
+          "code": "QL0030307",
+          "title": "3号楼307"
+        },
+        {
+          "id": "afb8a3b3-9946-4d97-83af-f0cdf3d839d5",
+          "code": "QL0030308",
+          "title": "3号楼308"
+        },
+        {
+          "id": "256afe6c-a763-496e-b350-2f68e208d30c",
+          "code": "QL0030309",
+          "title": "3号楼309"
+        },
+        {
+          "id": "84706356-425f-411a-a0e7-bf9a97ba95f7",
+          "code": "QL0030310",
+          "title": "3号楼310"
+        },
+        {
+          "id": "9e10fdca-c174-4d69-a965-71e6684df37b",
+          "code": "QL0030311",
+          "title": "3号楼311"
+        },
+        {
+          "id": "ab9c8fa6-479e-46b3-be8d-8f7f02123ce1",
+          "code": "QL0030312",
+          "title": "3号楼312"
+        },
+        {
+          "id": "d9d95052-0d12-4bd0-9ce9-44b99cbead31",
+          "code": "QL0030313",
+          "title": "3号楼313"
+        },
+        {
+          "id": "c424cc2b-574c-4db2-85b1-156159557ecb",
+          "code": "QL0030314",
+          "title": "3号楼314"
+        },
+        {
+          "id": "ac333909-cfa2-4e43-9b8a-746adefdfa6d",
+          "code": "QL0030315",
+          "title": "3号楼315"
+        },
+        {
+          "id": "eb552d11-9765-48bb-8074-fd9582866e2d",
+          "code": "QL0030316",
+          "title": "3号楼316"
+        },
+        {
+          "id": "dcde3f80-0fea-4abe-a936-c72e876be5be",
+          "code": "QL0030317",
+          "title": "3号楼317"
+        },
+        {
+          "id": "9ca0da02-2baa-42a9-8780-40cb8758efb5",
+          "code": "QL0030318",
+          "title": "3号楼318"
+        },
+        {
+          "id": "53438f54-09b8-4472-b654-cc6bdcac041a",
+          "code": "QL0030319",
+          "title": "3号楼319"
+        },
+        {
+          "id": "3992efd4-8182-497a-bc19-e75e073fd846",
+          "code": "QL0030320",
+          "title": "3号楼320"
+        },
+        {
+          "id": "36758f52-ce53-4fea-b3ff-f0151972e380",
+          "code": "QL0030321",
+          "title": "3号楼321"
+        }
+      ]
+    },
+    {
+      "id": "ea37b4dc-eb78-4a51-887f-49c04c4555a6",
+      "code": "QL00302",
+      "title": "3号楼裙楼2层",
+      "subnodes": [
+        {
+          "id": "85702567-77c8-4bbc-9734-33bb848b2a99",
+          "code": "QL0030201",
+          "title": "3号楼201"
+        },
+        {
+          "id": "b0171037-305d-4593-be0b-5b9cba5e6158",
+          "code": "QL0030202",
+          "title": "3号楼202"
+        },
+        {
+          "id": "055f7b39-0113-4329-8076-c22488aebc57",
+          "code": "QL0030203",
+          "title": "3号楼203"
+        },
+        {
+          "id": "c8a2205d-5ada-43dc-8148-471801f10028",
+          "code": "QL0030204",
+          "title": "3号楼204"
+        },
+        {
+          "id": "b9efb4bb-54d2-441b-a9c0-385ef70e4353",
+          "code": "QL0030205",
+          "title": "3号楼205"
+        },
+        {
+          "id": "8ad0c04d-cfe2-4ee6-999b-6c90aabe3602",
+          "code": "QL0030206",
+          "title": "3号楼206"
+        },
+        {
+          "id": "8e3994c3-39d8-4b82-a0a9-1502e2dd833b",
+          "code": "QL0030207",
+          "title": "3号楼207"
+        },
+        {
+          "id": "d5158416-f1c6-43ae-a34c-f9787f41a1d9",
+          "code": "QL0030208",
+          "title": "3号楼208"
+        },
+        {
+          "id": "a4917486-4850-4369-bf98-ccdca8d5ff53",
+          "code": "QL0030209",
+          "title": "3号楼209"
+        },
+        {
+          "id": "6e3d28f8-5065-47dd-b056-1ab831d0480f",
+          "code": "QL0030210",
+          "title": "3号楼210"
+        },
+        {
+          "id": "1da089cf-82f6-46cb-9d2d-e3db258e964e",
+          "code": "QL0030211",
+          "title": "3号楼211"
+        },
+        {
+          "id": "1ab41516-1dd9-46a9-a184-8a3e9fdc4ab8",
+          "code": "QL0030212",
+          "title": "3号楼212"
+        },
+        {
+          "id": "53f07717-1cbb-4395-89a6-92dc2f844813",
+          "code": "QL0030213",
+          "title": "3号楼213"
+        },
+        {
+          "id": "2085ac0e-c55c-4461-99e9-0fb2a1fc7850",
+          "code": "QL0030214",
+          "title": "3号楼214"
+        },
+        {
+          "id": "8e07b30a-9afa-4297-b126-c93acf356cf7",
+          "code": "QL0030215",
+          "title": "3号楼215"
+        },
+        {
+          "id": "5731cc6c-2743-41ec-96e5-34498e90198a",
+          "code": "QL0030216",
+          "title": "3号楼216"
+        },
+        {
+          "id": "18686fff-ae3d-41fc-a0d3-35d00281c8f2",
+          "code": "QL0030217",
+          "title": "3号楼217"
+        },
+        {
+          "id": "e3536a08-c8ff-47fa-a49e-eaae002d0be5",
+          "code": "QL0030218",
+          "title": "3号楼218"
+        }
+      ]
+    },
+    {
+      "id": "4d9b7524-2ecc-4109-8ef8-f49f34cdd306",
+      "code": "ZL003C10",
+      "title": "3号楼C座10层",
+      "subnodes": [
+        {
+          "id": "065c9b83-9059-4925-b3d2-c21208c0256e",
+          "code": "ZL003C1001",
+          "title": "3号楼C座1001"
+        },
+        {
+          "id": "87f00854-5764-457e-8ce2-c2b6a4a5d3a4",
+          "code": "ZL003C1002",
+          "title": "3号楼C座1002"
+        },
+        {
+          "id": "2ce0fd11-ac00-4a95-a5a8-676c6960d50d",
+          "code": "ZL003C1003",
+          "title": "3号楼C座1003"
+        }
+      ]
+    },
+    {
+      "id": "81f7c154-94f1-46eb-9d9d-ccce5f4d30f8",
+      "code": "ZL003C09",
+      "title": "3号楼C座9层",
+      "subnodes": [
+        {
+          "id": "c264fa67-19bf-4c17-85b2-d78886d8863c",
+          "code": "ZL003C0901",
+          "title": "3号楼C座901"
+        },
+        {
+          "id": "bc284869-de2f-4bf6-bbad-3021912e68cd",
+          "code": "ZL003C0902",
+          "title": "3号楼C座902"
+        },
+        {
+          "id": "83527a73-89b1-4540-8f72-e50c92794537",
+          "code": "ZL003C0903",
+          "title": "3号楼C座903"
+        }
+      ]
+    },
+    {
+      "id": "186e213d-0893-42e5-9525-f671f93b621c",
+      "code": "ZL003C08",
+      "title": "3号楼C座8层",
+      "subnodes": [
+        {
+          "id": "24723e47-30cb-477f-9b68-4f31cd1329cb",
+          "code": "ZL003C0801",
+          "title": "3号楼C座801"
+        },
+        {
+          "id": "3bb42487-6ca1-4791-92dd-6096d6b67f62",
+          "code": "ZL003C0802",
+          "title": "3号楼C座802"
+        },
+        {
+          "id": "6b145116-1b06-4e57-aa6a-f8e14238de65",
+          "code": "ZL003C0803",
+          "title": "3号楼C座803"
+        }
+      ]
+    },
+    {
+      "id": "c71d9c01-131f-4578-af00-d88e0567dbf2",
+      "code": "ZL003C07",
+      "title": "3号楼C座7层",
+      "subnodes": [
+        {
+          "id": "5e229c15-42b0-4690-a014-e990ba7596bc",
+          "code": "ZL003C0701",
+          "title": "3号楼C座701"
+        },
+        {
+          "id": "d5e5a200-578d-4fd3-a7df-7c7c1e7d093c",
+          "code": "ZL003C0702",
+          "title": "3号楼C座702"
+        },
+        {
+          "id": "1208313f-4fb0-4c95-9c51-90c3cc591360",
+          "code": "ZL003C0703",
+          "title": "3号楼C座703"
+        }
+      ]
+    },
+    {
+      "id": "4c058fce-72d7-4377-b271-69536c677f42",
+      "code": "ZL003C06",
+      "title": "3号楼C座6层",
+      "subnodes": [
+        {
+          "id": "e27ce206-3e09-4a9f-92eb-8a94deeaf201",
+          "code": "ZL003C0601",
+          "title": "3号楼C座601"
+        },
+        {
+          "id": "026798b9-5879-47e2-af98-eba472325eba",
+          "code": "ZL003C0602",
+          "title": "3号楼C座602"
+        },
+        {
+          "id": "a5268db2-e93d-4904-ace7-d7b5945eb7c0",
+          "code": "ZL003C0603",
+          "title": "3号楼C座603"
+        }
+      ]
+    },
+    {
+      "id": "24056a3e-75e4-47fa-83e7-d370cb1a3e89",
+      "code": "ZL003C05",
+      "title": "3号楼C座5层",
+      "subnodes": [
+        {
+          "id": "18a4ea76-6563-47a3-876d-5c10754fd490",
+          "code": "ZL003C0501",
+          "title": "3号楼C座501"
+        },
+        {
+          "id": "558cb40a-3f3c-425c-8c06-6c37e61e3b35",
+          "code": "ZL003C0502",
+          "title": "3号楼C座502"
+        },
+        {
+          "id": "6d0846bc-8815-4051-a29a-383723afb716",
+          "code": "ZL003C0503",
+          "title": "3号楼C座503"
+        }
+      ]
+    },
+    {
+      "id": "2828dd17-39dc-462a-bb68-3b3ab91d39ca",
+      "code": "ZL003C04",
+      "title": "3号楼C座4层",
+      "subnodes": [
+        {
+          "id": "cfedbebc-560b-4c7a-9b2b-0fb59b72b45b",
+          "code": "ZL003C0401",
+          "title": "3号楼C座401"
+        },
+        {
+          "id": "cb625ef4-f1f5-4331-bc68-3368722d986b",
+          "code": "ZL003C0402",
+          "title": "3号楼C座402"
+        },
+        {
+          "id": "c56193be-ef5a-4a8a-94f1-5d90d33cbcc7",
+          "code": "ZL003C0403",
+          "title": "3号楼C座403"
+        },
+        {
+          "id": "376eb4ba-327e-4970-ad00-2ca7190ce192",
+          "code": "ZL003C0404",
+          "title": "3号楼C座404"
+        },
+        {
+          "id": "9c10d7fb-9dab-4e10-9df6-0b3978f3f524",
+          "code": "ZL003C0405",
+          "title": "3号楼C座405"
+        },
+        {
+          "id": "2d5a0d88-582d-461a-a7e1-e9f7f88cd960",
+          "code": "ZL003C0406",
+          "title": "3号楼C座406"
+        },
+        {
+          "id": "8e781a69-cb22-435c-9989-e4ecff090995",
+          "code": "ZL003C0407",
+          "title": "3号楼C座407"
+        },
+        {
+          "id": "33f7a192-a901-42ad-824e-c1c1024cd8f7",
+          "code": "ZL003C0408",
+          "title": "3号楼C座408"
+        },
+        {
+          "id": "0b50e484-d1f3-43f3-8524-ee699087c5bc",
+          "code": "ZL003C0409",
+          "title": "3号楼C座409"
+        },
+        {
+          "id": "76b9c557-1fdd-4df7-8cb0-3056ecadeb9d",
+          "code": "ZL003C0410",
+          "title": "3号楼C座410"
+        },
+        {
+          "id": "13ad51a1-05da-4da9-be41-511b558ec9b0",
+          "code": "ZL003C0411",
+          "title": "3号楼C座411"
+        }
+      ]
+    },
+    {
+      "id": "3e4abc49-77d0-4a9e-a099-51ff9926e0a8",
+      "code": "ZL003A12",
+      "title": "3号楼A座12层",
+      "subnodes": [
+        {
+          "id": "fc3cc506-f964-40ba-acb8-8acec1b610a0",
+          "code": "ZL003A1201",
+          "title": "3号楼A座1201"
+        }
+      ]
+    },
+    {
+      "id": "59cece8a-a81e-4994-8e42-af0b6f2e7928",
+      "code": "ZL003A11",
+      "title": "3号楼A座11层",
+      "subnodes": [
+        {
+          "id": "e527c7cc-a808-414d-aee8-aac62f7a2396",
+          "code": "ZL003A1101",
+          "title": "3号楼A座1101"
+        }
+      ]
+    },
+    {
+      "id": "03f79152-398b-42f8-97e1-c60a4adf9074",
+      "code": "ZL003A10",
+      "title": "3号楼A座10层",
+      "subnodes": [
+        {
+          "id": "b1fd1e61-2405-4f96-8120-82e4833f9cc1",
+          "code": "ZL003A1001",
+          "title": "3号楼A座1001"
+        }
+      ]
+    },
+    {
+      "id": "73a6b080-3daf-4ebe-802a-f101ec371092",
+      "code": "ZL003A09",
+      "title": "3号楼A座9层",
+      "subnodes": [
+        {
+          "id": "a563cc7a-70e8-4a04-b371-4168dba37b1f",
+          "code": "ZL003A0901",
+          "title": "3号楼A座901"
+        }
+      ]
+    },
+    {
+      "id": "42f3f113-5ba1-4236-aaf2-7d144387675e",
+      "code": "ZL003A08",
+      "title": "3号楼A座8层",
+      "subnodes": [
+        {
+          "id": "7298210d-5259-4d8a-a98a-ae0d25bbbe92",
+          "code": "ZL003A0801",
+          "title": "3号楼A座801"
+        }
+      ]
+    },
+    {
+      "id": "228715fd-ca1d-4311-b83d-6f41b98c47dd",
+      "code": "ZL003A07",
+      "title": "3号楼A座7层",
+      "subnodes": [
+        {
+          "id": "d24440b1-a28b-491e-b35d-489e661cfe5a",
+          "code": "ZL003A0701",
+          "title": "3号楼A座701"
+        }
+      ]
+    },
+    {
+      "id": "87983d49-e26f-4607-9d3c-0c295c282c90",
+      "code": "ZL003A06",
+      "title": "3号楼A座6层",
+      "subnodes": [
+        {
+          "id": "de6afe15-84a6-4b7a-abe2-ff4f504739f8",
+          "code": "ZL003A0601",
+          "title": "3号楼A座601"
+        }
+      ]
+    },
+    {
+      "id": "9dad7646-75bd-4486-a845-4ad2f4544876",
+      "code": "ZL003A05",
+      "title": "3号楼A座5层",
+      "subnodes": [
+        {
+          "id": "83111c1f-30e6-4a75-9f01-e8a24a2e9be5",
+          "code": "ZL003A0501",
+          "title": "3号楼A座501"
+        }
+      ]
+    },
+    {
+      "id": "0946c08a-cf3d-48f7-b170-05cfc05bdf96",
+      "code": "ZL003A04",
+      "title": "3号楼A座4层",
+      "subnodes": [
+        {
+          "id": "d6f24827-e117-4a14-924d-1a095ae66583",
+          "code": "ZL003A0401",
+          "title": "3号楼A座401"
+        },
+        {
+          "id": "6d92f7eb-24de-4299-b78a-b453a61f41a7",
+          "code": "ZL003A0402",
+          "title": "3号楼A座402"
+        },
+        {
+          "id": "36665b97-ab22-4333-b34e-258ea833fa24",
+          "code": "ZL003A0403",
+          "title": "3号楼A座403"
+        },
+        {
+          "id": "f4d652dc-bdb8-4dd1-b204-ba4533c04ef7",
+          "code": "ZL003A0404",
+          "title": "3号楼A座412"
+        },
+        {
+          "id": "4a0dcd67-33fe-4cf3-acfc-6ad2b127ffc0",
+          "code": "ZL003A0405",
+          "title": "3号楼A座413"
+        },
+        {
+          "id": "d8f7318b-111f-4615-990e-b7b166bcc79c",
+          "code": "ZL003A0406",
+          "title": "3号楼A座414"
+        },
+        {
+          "id": "493426a9-6f10-416a-bd74-62e4b7365985",
+          "code": "ZL003A0407",
+          "title": "3号楼A座415"
+        }
+      ]
+    },
+    {
+      "id": "5e306a2d-74ba-4463-baad-052505d5dd4c",
+      "code": "ZL003B09",
+      "title": "3号楼B座9层",
+      "subnodes": [
+        {
+          "id": "91e7310f-5f3c-46c8-a13a-ced924ee199c",
+          "code": "ZL003B0901",
+          "title": "3号楼B座901"
+        },
+        {
+          "id": "0695a161-8e83-4a69-ba9d-26fa4f41bdfc",
+          "code": "ZL003B0902",
+          "title": "3号楼B座902"
+        },
+        {
+          "id": "53dc8ff6-d259-4cb8-9c50-0e6dc0ec8a6e",
+          "code": "ZL003B0903",
+          "title": "3号楼B座903"
+        }
+      ]
+    },
+    {
+      "id": "2349dea1-ea7e-4696-91a5-ace03c23a19c",
+      "code": "ZL003B08",
+      "title": "3号楼B座8层",
+      "subnodes": [
+        {
+          "id": "f1b2432e-c59e-442b-8a37-de43fbb3e6f7",
+          "code": "ZL003B0802",
+          "title": "3号楼B座802"
+        },
+        {
+          "id": "e8f7c0d4-840e-4e30-9af2-e188f1b9d190",
+          "code": "ZL003B0803",
+          "title": "3号楼B座803"
+        },
+        {
+          "id": "895ed1de-3768-4a71-ac21-d63c7ff34f63",
+          "code": "ZL003B0804",
+          "title": "3号楼B座804"
+        },
+        {
+          "id": "62a7d4cf-7b1b-4b5d-8810-27b4c2ace5db",
+          "code": "ZL003B0805",
+          "title": "3号楼B座805"
+        }
+      ]
+    },
+    {
+      "id": "f7ead2f3-72e5-4d9b-93d7-5c3806451bc0",
+      "code": "ZL003B07",
+      "title": "3号楼B座7层",
+      "subnodes": [
+        {
+          "id": "e1b490eb-7ba5-4d82-b7c4-7dffeeb86d6e",
+          "code": "ZL003B0702",
+          "title": "3号楼B座702"
+        },
+        {
+          "id": "c1a775b1-a941-459c-b5ad-6642912105fc",
+          "code": "ZL003B0703",
+          "title": "3号楼B座703"
+        },
+        {
+          "id": "8b1f4f5c-27e8-45be-a7ab-fa1737a852cc",
+          "code": "ZL003B0704",
+          "title": "3号楼B座704"
+        },
+        {
+          "id": "d4876253-a383-40f8-88cf-9710b776a56e",
+          "code": "ZL003B0705",
+          "title": "3号楼B座705"
+        }
+      ]
+    },
+    {
+      "id": "228ca535-a5a8-480a-bb4f-3f6ec4dd53f7",
+      "code": "ZL003B06",
+      "title": "3号楼B座6层",
+      "subnodes": [
+        {
+          "id": "c472a6d5-9574-4f1b-820f-ee443dba37eb",
+          "code": "ZL003B0602",
+          "title": "3号楼B座602"
+        },
+        {
+          "id": "b0a66123-5849-476e-a7f2-102f3aa67acf",
+          "code": "ZL003B0603",
+          "title": "3号楼B座603"
+        },
+        {
+          "id": "f5c117cc-730c-455a-91ee-bb41bddea6a1",
+          "code": "ZL003B0604",
+          "title": "3号楼B座604"
+        },
+        {
+          "id": "a396d2aa-9250-4b48-9fe1-db4b08dee72b",
+          "code": "ZL003B0605",
+          "title": "3号楼B座605"
+        }
+      ]
+    },
+    {
+      "id": "ab60f555-1172-4036-b802-bfd68dd8599b",
+      "code": "ZL003B05",
+      "title": "3号楼B座5层",
+      "subnodes": [
+        {
+          "id": "d52c3ad2-2eba-4c36-8119-cff0c1fa9339",
+          "code": "ZL003B0502",
+          "title": "3号楼B座502"
+        },
+        {
+          "id": "27a5d022-776f-4ccf-8c95-155cb1b26363",
+          "code": "ZL003B0503",
+          "title": "3号楼B座503"
+        },
+        {
+          "id": "3e432dc1-d20c-4812-9033-f1abdf47cc54",
+          "code": "ZL003B0504",
+          "title": "3号楼B座504"
+        },
+        {
+          "id": "00c0ab24-b9eb-4d38-b5da-f8d5ba817695",
+          "code": "ZL003B0505",
+          "title": "3号楼B座505"
+        }
+      ]
+    },
+    {
+      "id": "d3c6dc42-0748-4f53-9c61-4a13ffc03dd9",
+      "code": "ZL003B04",
+      "title": "3号楼B座4层",
+      "subnodes": [
+        {
+          "id": "69f3ff49-591c-4e6e-a087-3e75eacd799c",
+          "code": "ZL003B0404",
+          "title": "3号楼B座404"
+        },
+        {
+          "id": "4594700b-b76c-476e-b76e-44ca64e81cda",
+          "code": "ZL003B0405",
+          "title": "3号楼B座405"
+        },
+        {
+          "id": "6f5755a8-a9c7-4d38-933c-4b037a382d01",
+          "code": "ZL003B0406",
+          "title": "3号楼B座406"
+        },
+        {
+          "id": "ba9a0702-0912-4a90-a747-c348ef38bbff",
+          "code": "ZL003B0407",
+          "title": "3号楼B座407"
+        },
+        {
+          "id": "767cc501-225d-454c-8c89-4d3902f15fb4",
+          "code": "ZL003B0408",
+          "title": "3号楼B座408"
+        },
+        {
+          "id": "58abc6f5-3294-4441-a844-f054eb9bc9fc",
+          "code": "ZL003B0409",
+          "title": "3号楼B座409"
+        },
+        {
+          "id": "ee213545-db44-492d-93ee-10002ac5216a",
+          "code": "ZL003B0410",
+          "title": "3号楼B座410"
+        },
+        {
+          "id": "2147a354-9d3a-46f6-aeec-9a5a3e2be3fb",
+          "code": "ZL003B0411",
+          "title": "3号楼B座411"
+        },
+        {
+          "id": "0bd4d7c5-f804-4ceb-9146-d5de0a595e98",
+          "code": "ZL003B0416",
+          "title": "3号楼B座416"
+        }
+      ]
+    }
+  ],
+  "四号楼": [
+    {
+      "id": "899014b9-77b5-4f17-8277-7a860fee3fa3",
+      "code": "ZL004A12",
+      "title": "4号楼A座12层",
+      "subnodes": [
+        {
+          "id": "fbda3ceb-dbdd-4fba-9d65-61255fdaf2c4",
+          "code": "ZL004A1201",
+          "title": "4号楼A座1201"
+        },
+        {
+          "id": "d6dcdb27-485b-4bb6-9794-a770d7bffbe5",
+          "code": "ZL004A1202",
+          "title": "4号楼A座1202"
+        },
+        {
+          "id": "e167455c-bd8e-4572-9fef-c87c17e2af4e",
+          "code": "ZL004A1203",
+          "title": "4号楼A座1203"
+        },
+        {
+          "id": "12197785-b873-471e-aa05-bfd4898b8e6e",
+          "code": "ZL004A1204",
+          "title": "4号楼A座1204"
+        }
+      ]
+    },
+    {
+      "id": "3ebed877-c1ec-45c3-a069-dc3932cf7c88",
+      "code": "ZL004A11",
+      "title": "4号楼A座11层",
+      "subnodes": [
+        {
+          "id": "4e04aa1a-546e-43ee-8278-7aa28320ad0b",
+          "code": "ZL004A1101",
+          "title": "4号楼A座1101"
+        },
+        {
+          "id": "a9a38cb9-e2a9-4e30-b652-3b45f3583909",
+          "code": "ZL004A1102",
+          "title": "4号楼A座1102"
+        },
+        {
+          "id": "2313d2db-0383-42ab-a5ee-2f538b4f098a",
+          "code": "ZL004A1103",
+          "title": "4号楼A座1103"
+        },
+        {
+          "id": "7ce9539d-a9ad-42c0-b0e7-dfbc16758b95",
+          "code": "ZL004A1104",
+          "title": "4号楼A座1104"
+        }
+      ]
+    },
+    {
+      "id": "590c158e-b471-404b-8a1a-c46eb29c300d",
+      "code": "ZL004A10",
+      "title": "4号楼A座10层",
+      "subnodes": [
+        {
+          "id": "cc51121c-a5fe-47d0-a5dd-c9dc0904f359",
+          "code": "ZL004A1001",
+          "title": "4号楼A座1001"
+        },
+        {
+          "id": "4ccce7a0-676d-4a1f-9c79-a1d08bd18a04",
+          "code": "ZL004A1002",
+          "title": "4号楼A座1002"
+        },
+        {
+          "id": "287a84ee-074e-4cdd-b3ea-c05fe036fb9a",
+          "code": "ZL004A1003",
+          "title": "4号楼A座1003"
+        },
+        {
+          "id": "7e3b7706-ee1b-4fc8-a3d4-9ebe4339bfbb",
+          "code": "ZL004A1004",
+          "title": "4号楼A座1004"
+        }
+      ]
+    },
+    {
+      "id": "33386107-781b-473a-9ff1-454a3a9a0545",
+      "code": "ZL004A09",
+      "title": "4号楼A座9层",
+      "subnodes": [
+        {
+          "id": "16d20f17-0c50-484a-9b80-68d8e29a591b",
+          "code": "ZL004A0901",
+          "title": "4号楼A座901"
+        },
+        {
+          "id": "7ad8c649-6faf-436e-9ab9-96b67404442d",
+          "code": "ZL004A0902",
+          "title": "4号楼A座902"
+        },
+        {
+          "id": "7501d0b0-ee1f-419d-8f58-4b5763b43d26",
+          "code": "ZL004A0903",
+          "title": "4号楼A座903"
+        },
+        {
+          "id": "d71e850c-419b-454a-b2f0-65a246325cd3",
+          "code": "ZL004A0904",
+          "title": "4号楼A座904"
+        }
+      ]
+    },
+    {
+      "id": "3cbed0c6-f17f-4103-b46e-6fd32104567c",
+      "code": "ZL004A08",
+      "title": "4号楼A座8层",
+      "subnodes": [
+        {
+          "id": "b1ba1ca3-e3b0-4ba7-8531-c6942fb991ae",
+          "code": "ZL004A0801",
+          "title": "4号楼A座801"
+        },
+        {
+          "id": "8b3feab2-d0cc-4b2a-9d25-d10a4fb5e676",
+          "code": "ZL004A0802",
+          "title": "4号楼A座802"
+        },
+        {
+          "id": "852d4149-e7e1-46ea-a0b3-57aa4d9a5df6",
+          "code": "ZL004A0803",
+          "title": "4号楼A座803"
+        },
+        {
+          "id": "43dda56a-9156-43a6-a119-284182ddc25c",
+          "code": "ZL004A0804",
+          "title": "4号楼A座804"
+        }
+      ]
+    },
+    {
+      "id": "0a386d22-8bae-4990-bb02-6831fe7995fb",
+      "code": "ZL004A07",
+      "title": "4号楼A座7层",
+      "subnodes": [
+        {
+          "id": "1dd1db25-c5ae-4084-a3f6-9e8c606d100e",
+          "code": "ZL004A0701",
+          "title": "4号楼A座701"
+        },
+        {
+          "id": "2f454d2e-478c-4483-b38f-cbf1840238a6",
+          "code": "ZL004A0702",
+          "title": "4号楼A座702"
+        },
+        {
+          "id": "8963d38d-47fa-4f80-b55a-87c00d66bc7d",
+          "code": "ZL004A0703",
+          "title": "4号楼A座703"
+        },
+        {
+          "id": "a714dd20-f057-4228-816f-47c0be5f544d",
+          "code": "ZL004A0704",
+          "title": "4号楼A座704"
+        }
+      ]
+    },
+    {
+      "id": "b28ca148-88e5-4ab0-b6af-fbdf16574237",
+      "code": "ZL004A06",
+      "title": "4号楼A座6层",
+      "subnodes": [
+        {
+          "id": "38e31749-d202-4b48-bb96-814a50b929e1",
+          "code": "ZL004A0601",
+          "title": "4号楼A座601"
+        },
+        {
+          "id": "51b025fd-ef0f-497f-a96d-859fddfb6dc2",
+          "code": "ZL004A0602",
+          "title": "4号楼A座602"
+        },
+        {
+          "id": "18e3651b-315d-473d-852e-974bf5ca9137",
+          "code": "ZL004A0603",
+          "title": "4号楼A座603"
+        },
+        {
+          "id": "1c383a15-dfa0-4595-ac7b-a54708a61a3b",
+          "code": "ZL004A0604",
+          "title": "4号楼A座604"
+        }
+      ]
+    },
+    {
+      "id": "4b2033c6-7a92-4ef0-b401-424617b818f6",
+      "code": "ZL004A05",
+      "title": "4号楼A座5层",
+      "subnodes": [
+        {
+          "id": "a452bd44-aa84-4f02-9c37-99789fd5e053",
+          "code": "ZL004A0501",
+          "title": "4号楼A座501"
+        },
+        {
+          "id": "f39140d4-1887-4d13-bb47-d682161a6a4e",
+          "code": "ZL004A0502",
+          "title": "4号楼A座502"
+        },
+        {
+          "id": "e7441585-cec2-4415-84f1-760e4671fe6f",
+          "code": "ZL004A0503",
+          "title": "4号楼A座503"
+        },
+        {
+          "id": "70980dd6-79d5-45d3-bce2-4a45561aa916",
+          "code": "ZL004A0504",
+          "title": "4号楼A座504"
+        }
+      ]
+    },
+    {
+      "id": "1ccb9ec3-4171-45f5-84ea-73c579e8c5ff",
+      "code": "ZL004A04",
+      "title": "4号楼A座4层",
+      "subnodes": [
+        {
+          "id": "4ba852fd-6223-4c9f-90b5-18439c6ada3a",
+          "code": "ZL004A0401",
+          "title": "4号楼A座401"
+        },
+        {
+          "id": "2e86366e-4910-4fa3-b383-b123c2b8de90",
+          "code": "ZL004A0402",
+          "title": "4号楼A座402"
+        },
+        {
+          "id": "861854af-c78a-4afa-a64d-7806c3e9e978",
+          "code": "ZL004A0403",
+          "title": "4号楼A座403"
+        },
+        {
+          "id": "bbf4ee03-390c-43ad-a99c-bdf670e31b4f",
+          "code": "ZL004A0404",
+          "title": "4号楼A座404"
+        },
+        {
+          "id": "42027afe-1a97-4b25-9ea2-0931babae0a7",
+          "code": "ZL004A0405",
+          "title": "4号楼A座405"
+        },
+        {
+          "id": "3f9d9cb3-e560-407e-8478-b2c27d37d9da",
+          "code": "ZL004A0406",
+          "title": "4号楼A座406"
+        }
+      ]
+    },
+    {
+      "id": "b612754c-be5e-4a56-8872-6e12fbfb845e",
+      "code": "ZL004B09",
+      "title": "4号楼B座9层",
+      "subnodes": [
+        {
+          "id": "bfd149d2-021f-4bd9-bd57-27607ada9a45",
+          "code": "ZL004B0901",
+          "title": "4号楼B座901"
+        },
+        {
+          "id": "c573ad75-a7a2-4c4e-b5be-c30cfbf59196",
+          "code": "ZL004B0902",
+          "title": "4号楼B座902"
+        },
+        {
+          "id": "71cadb4e-c8a4-4a9c-999c-107e26476b98",
+          "code": "ZL004B0903",
+          "title": "4号楼B座903"
+        },
+        {
+          "id": "2c653b7a-d2c5-45cf-ab6e-8d1570bc5c5f",
+          "code": "ZL004B0904",
+          "title": "4号楼B座904"
+        }
+      ]
+    },
+    {
+      "id": "3bb4c290-fcbd-45f9-83ca-cdcecf930284",
+      "code": "ZL004B08",
+      "title": "4号楼B座8层",
+      "subnodes": [
+        {
+          "id": "cdb09d13-394b-4ef0-addc-f340f54d71ed",
+          "code": "ZL004B0801",
+          "title": "4号楼B座801"
+        },
+        {
+          "id": "3acce9f5-9669-4742-b6cd-8232da2be6d1",
+          "code": "ZL004B0802",
+          "title": "4号楼B座802"
+        },
+        {
+          "id": "807bad25-ff77-4ce6-9bbb-33b77f383ff8",
+          "code": "ZL004B0803",
+          "title": "4号楼B座803"
+        },
+        {
+          "id": "80579519-781b-4d84-af94-cd4c1706a26d",
+          "code": "ZL004B0804",
+          "title": "4号楼B座804"
+        }
+      ]
+    },
+    {
+      "id": "98174f2b-3894-4388-85b0-df5f56efa279",
+      "code": "ZL004B07",
+      "title": "4号楼B座7层",
+      "subnodes": [
+        {
+          "id": "b0a8fe56-01ae-4de1-b83d-0e7c73ffc272",
+          "code": "ZL004B0701",
+          "title": "4号楼B座701"
+        },
+        {
+          "id": "c81321ce-e6d1-47a9-85db-e82e9298776a",
+          "code": "ZL004B0702",
+          "title": "4号楼B座702"
+        },
+        {
+          "id": "d50fc158-8955-4f49-9e90-89a846e504cd",
+          "code": "ZL004B0703",
+          "title": "4号楼B座703"
+        },
+        {
+          "id": "871a37cd-5c3a-4fc7-ac85-b6015a6073a5",
+          "code": "ZL004B0704",
+          "title": "4号楼B座704"
+        }
+      ]
+    },
+    {
+      "id": "43106f32-88d6-44e0-a505-b36abcc711b4",
+      "code": "ZL004B06",
+      "title": "4号楼B座6层",
+      "subnodes": [
+        {
+          "id": "d5e51c7a-ddbd-4d2e-835a-75cdf0ba4d8e",
+          "code": "ZL004B0601",
+          "title": "4号楼B座601"
+        },
+        {
+          "id": "2ffa85e5-55b1-4dd3-b2ab-8371e7e220ee",
+          "code": "ZL004B0602",
+          "title": "4号楼B座602"
+        },
+        {
+          "id": "98a2db56-13e3-4d27-b562-bec63e2517ca",
+          "code": "ZL004B0603",
+          "title": "4号楼B座603"
+        },
+        {
+          "id": "8b28b161-7d5e-4125-a41f-3b353b57e055",
+          "code": "ZL004B0604",
+          "title": "4号楼B座604"
+        }
+      ]
+    },
+    {
+      "id": "7c1d7ed8-d5a8-41d2-8d11-ec040c4783e0",
+      "code": "ZL004B05",
+      "title": "4号楼B座5层",
+      "subnodes": [
+        {
+          "id": "275b72d9-7c22-48d6-b3d9-bf718e528d01",
+          "code": "ZL004B0501",
+          "title": "4号楼B座501"
+        },
+        {
+          "id": "80a23e99-14ba-4ad3-a2e7-a508a0ee2198",
+          "code": "ZL004B0502",
+          "title": "4号楼B座502"
+        },
+        {
+          "id": "9ad18ff2-9fbd-4fe5-87ec-8d2d04044ad9",
+          "code": "ZL004B0503",
+          "title": "4号楼B座503"
+        },
+        {
+          "id": "ad11dcf0-01d3-49ae-a3c8-e433f775879d",
+          "code": "ZL004B0504",
+          "title": "4号楼B座504"
+        }
+      ]
+    },
+    {
+      "id": "e07999b6-6b6e-4333-994d-05797d09c92a",
+      "code": "ZL004B04",
+      "title": "4号楼B座4层",
+      "subnodes": [
+        {
+          "id": "22653b48-9ba0-4bf5-806f-f5dffb48053f",
+          "code": "ZL004B0401",
+          "title": "4号楼B座401"
+        },
+        {
+          "id": "efa56cb4-4eef-4147-88e2-457d1bdefce2",
+          "code": "ZL004B0402",
+          "title": "4号楼B座402"
+        },
+        {
+          "id": "7bc5a01f-aef1-47be-938f-361dc470a223",
+          "code": "ZL004B0403",
+          "title": "4号楼B座403"
+        },
+        {
+          "id": "de503550-1b42-40fb-a1ef-3451fa6170a7",
+          "code": "ZL004B0404",
+          "title": "4号楼B座404"
+        },
+        {
+          "id": "3208253d-8b24-4d9d-9298-ad25127b029d",
+          "code": "ZL004B0405",
+          "title": "4号楼B座405"
+        }
+      ]
+    },
+    {
+      "id": "23b7c9c7-1852-4575-8d42-11a6743ccd08",
+      "code": "QL00403",
+      "title": "4号楼裙楼3层",
+      "subnodes": [
+        {
+          "id": "3f176fec-c2d6-48e1-9a30-23851af7f871",
+          "code": "QL0040301",
+          "title": "4号楼301"
+        },
+        {
+          "id": "4f8d3496-f097-4863-945e-92c5dab2c6fe",
+          "code": "QL0040302",
+          "title": "4号楼302"
+        },
+        {
+          "id": "44cc2987-49c8-40d2-b76b-90b700531d2c",
+          "code": "QL0040303",
+          "title": "4号楼303"
+        },
+        {
+          "id": "181499b2-3559-4bcf-90e5-a51f208bb3aa",
+          "code": "QL0040304",
+          "title": "4号楼304"
+        },
+        {
+          "id": "39407d45-c556-4ce2-bb78-836174c8f1ef",
+          "code": "QL0040305",
+          "title": "4号楼305"
+        },
+        {
+          "id": "c1d5408c-8091-49e5-9faf-a73ad8346c9b",
+          "code": "QL0040306",
+          "title": "4号楼306"
+        },
+        {
+          "id": "f52265a4-46c5-42d4-aee8-7c56921f6891",
+          "code": "QL0040307",
+          "title": "4号楼307"
+        },
+        {
+          "id": "f620d5d1-d2bd-4a9b-94ab-78d22d41b940",
+          "code": "QL0040308",
+          "title": "4号楼308"
+        },
+        {
+          "id": "fddc1693-aa1c-4eb8-9047-eb5de39220c8",
+          "code": "QL0040309",
+          "title": "4号楼309"
+        },
+        {
+          "id": "c4ccaf03-927c-4b55-8c69-c8ee731bda41",
+          "code": "QL0040310",
+          "title": "4号楼310"
+        },
+        {
+          "id": "d4f3ef86-5646-4492-88de-9f892fbfb085",
+          "code": "QL0040311",
+          "title": "4号楼311"
+        },
+        {
+          "id": "67f39f1c-e532-433c-ac89-681ad7926f02",
+          "code": "QL0040312",
+          "title": "4号楼312"
+        },
+        {
+          "id": "383a3ef7-1d59-4a27-a8dd-0beb2ab3bd98",
+          "code": "QL0040313",
+          "title": "4号楼313"
+        },
+        {
+          "id": "82e8aef8-49f9-4995-a961-e2b10368f160",
+          "code": "QL0040314",
+          "title": "4号楼314"
+        },
+        {
+          "id": "85a3cde3-e4e7-4fd5-a0cc-84422a893047",
+          "code": "QL0040315",
+          "title": "4号楼315"
+        },
+        {
+          "id": "aacd1ee3-de21-49b2-ae54-12f87febd5fe",
+          "code": "QL0040316",
+          "title": "4号楼316"
+        },
+        {
+          "id": "cbb32e24-3415-41ba-995c-aec181bb692d",
+          "code": "QL0040317",
+          "title": "4号楼317"
+        }
+      ]
+    },
+    {
+      "id": "09facc34-a699-4f3d-89c0-1f25c3aec37b",
+      "code": "QL00402",
+      "title": "4号楼裙楼2层",
+      "subnodes": [
+        {
+          "id": "c5daaff9-ed03-43c3-9d24-3833b9312a20",
+          "code": "QL0040201",
+          "title": "4号楼201"
+        },
+        {
+          "id": "6a798b65-5501-4501-8ccd-5476934ccf56",
+          "code": "QL0040202",
+          "title": "4号楼202"
+        },
+        {
+          "id": "9367ce7c-e78f-48aa-bb24-32006edf846e",
+          "code": "QL0040203",
+          "title": "4号楼203"
+        },
+        {
+          "id": "f9c3d31f-9126-4f8b-9566-b1ccb8f304cc",
+          "code": "QL0040204",
+          "title": "4号楼204"
+        },
+        {
+          "id": "1db335e6-a3ca-4a19-afdf-41fee7ec8a9d",
+          "code": "QL0040205",
+          "title": "4号楼205"
+        },
+        {
+          "id": "66e2e5cb-b470-4171-bbfc-cf8921f20e88",
+          "code": "QL0040206",
+          "title": "4号楼206"
+        },
+        {
+          "id": "75442222-4fea-4c54-b537-dd4a8743b393",
+          "code": "QL0040207",
+          "title": "4号楼207"
+        },
+        {
+          "id": "47ef6f5b-836d-4da3-ae93-4d1d1fc33d85",
+          "code": "QL0040208",
+          "title": "4号楼208"
+        },
+        {
+          "id": "27d2232c-d591-4c30-b694-25a8e0665680",
+          "code": "QL0040209",
+          "title": "4号楼209"
+        },
+        {
+          "id": "978dafb6-b7c7-4af5-9166-2e83b44d351f",
+          "code": "QL0040210",
+          "title": "4号楼210"
+        },
+        {
+          "id": "9a10118e-a5c2-4d1e-a1e2-fdf2eda884d8",
+          "code": "QL0040211",
+          "title": "4号楼211"
+        },
+        {
+          "id": "89e38109-ac2b-4b6d-b224-58cc16cb6733",
+          "code": "QL0040212",
+          "title": "4号楼212"
+        },
+        {
+          "id": "76d480ca-8b99-479c-8615-57337793debb",
+          "code": "QL0040213",
+          "title": "4号楼213"
+        },
+        {
+          "id": "6c84ed42-9cd5-45f8-90a9-1a17bd8765b7",
+          "code": "QL0040214",
+          "title": "4号楼214"
+        },
+        {
+          "id": "5340f49b-2b12-40e6-97c7-6bc49dd1a108",
+          "code": "QL0040215",
+          "title": "4号楼215"
+        }
+      ]
+    },
+    {
+      "id": "dba02c6f-3ff3-4130-91b9-c2c17e59b608",
+      "code": "SYDS0401",
+      "title": "4号楼底商1层",
+      "subnodes": [
+        {
+          "id": "47295ea9-289d-4f45-a1d5-5b817644cf99",
+          "code": "SYDS040101",
+          "title": "4号楼底商101"
+        },
+        {
+          "id": "302fc1e9-ce26-479c-97a9-10c4e74a9756",
+          "code": "SYDS040102",
+          "title": "4号楼底商102"
+        },
+        {
+          "id": "28df5c05-0b6f-4a45-92d2-1e01c8e60c40",
+          "code": "SYDS040103",
+          "title": "4号楼底商103"
+        },
+        {
+          "id": "107ac0b3-d4fa-4500-86c2-ed4814bdb1e7",
+          "code": "SYDS040104",
+          "title": "4号楼底商104"
+        },
+        {
+          "id": "6c4b907a-1a23-4989-ae7b-dfc8ec4beff6",
+          "code": "SYDS040105A",
+          "title": "4号楼底商105A"
+        },
+        {
+          "id": "00656a25-ccb8-4b71-ae29-43cea55ac309",
+          "code": "SYDS040105B",
+          "title": "4号楼底商105B"
+        },
+        {
+          "id": "c5b0398b-f0f4-4ddf-90e5-54f1c52a482f",
+          "code": "SYDS040106",
+          "title": "4号楼底商106"
+        },
+        {
+          "id": "e9283764-fcc8-46fb-b3bb-99d1cde1bcd7",
+          "code": "SYDS040108",
+          "title": "4号楼底商108"
+        },
+        {
+          "id": "5885e291-2d4e-478c-bf85-d32ef881dbd7",
+          "code": "SYDS040109",
+          "title": "4号楼底商109"
+        }
+      ]
+    }
+  ],
+  "五号楼": [
+    {
+      "id": "896c4146-6783-418f-ad97-dae6d9dcca9a",
+      "code": "ZL005C06",
+      "title": "5号楼C座6层",
+      "subnodes": [
+        {
+          "id": "ebd08ff3-1115-4ac9-b5ab-91b1ee0ab9f3",
+          "code": "ZL005C0601",
+          "title": "5号楼C座601"
+        },
+        {
+          "id": "bcf84f0b-2347-4bc2-8451-dbf7f68ad033",
+          "code": "ZL005C0602",
+          "title": "5号楼C座602"
+        },
+        {
+          "id": "c721b606-2411-476d-890e-0a4f02f801dc",
+          "code": "ZL005C0603",
+          "title": "5号楼C座603"
+        },
+        {
+          "id": "45490db6-8231-4fe0-9bb6-0768f144a136",
+          "code": "ZL005C0604",
+          "title": "5号楼C座604"
+        },
+        {
+          "id": "808fd61e-0e06-4176-8303-de42e198197d",
+          "code": "ZL005C0605",
+          "title": "5号楼C座605"
+        }
+      ]
+    },
+    {
+      "id": "0e3a6ae9-78f2-462c-b470-15407ab9c7f5",
+      "code": "ZL005A10",
+      "title": "5号楼A座10层",
+      "subnodes": [
+        {
+          "id": "5aed6a9f-ead5-4ffc-91bd-7c126cdbae47",
+          "code": "ZL005A1001",
+          "title": "5号楼A座1001"
+        },
+        {
+          "id": "59b23494-c53c-43ba-bfca-46af4e98d862",
+          "code": "ZL005A1002",
+          "title": "5号楼A座1002"
+        },
+        {
+          "id": "98b243c4-6f93-44e4-bef0-d0579a0a64f0",
+          "code": "ZL005A1003",
+          "title": "5号楼A座1003"
+        },
+        {
+          "id": "7e9cf817-f923-4888-b21d-1b154c638bdb",
+          "code": "ZL005A1004",
+          "title": "5号楼A座1004"
+        },
+        {
+          "id": "760aae06-4870-4631-80e9-4776b1851b60",
+          "code": "ZL005A1005",
+          "title": "5号楼A座1005"
+        },
+        {
+          "id": "2b4e2f36-98a9-4711-a9a4-20f89e31ceb1",
+          "code": "ZL005A1006",
+          "title": "5号楼A座1006"
+        }
+      ]
+    },
+    {
+      "id": "b8dbbb95-89ca-46bd-b2c8-a8afcabe8063",
+      "code": "ZL005A09",
+      "title": "5号楼A座9层",
+      "subnodes": [
+        {
+          "id": "9fded9ec-ea58-441f-939f-1c920486d9a3",
+          "code": "ZL005A0901",
+          "title": "5号楼A座901"
+        },
+        {
+          "id": "f0d07f88-9d52-44df-84d7-4832add9be4e",
+          "code": "ZL005A0902",
+          "title": "5号楼A座902"
+        },
+        {
+          "id": "55d67044-c9e5-4842-8163-dc46b29e44cb",
+          "code": "ZL005A0903",
+          "title": "5号楼A座903"
+        },
+        {
+          "id": "676c3ae1-0b98-4e3b-86f8-51808429f858",
+          "code": "ZL005A0904",
+          "title": "5号楼A座904"
+        },
+        {
+          "id": "2308a146-b073-4200-a4fc-d9b34c182223",
+          "code": "ZL005A0905",
+          "title": "5号楼A座905"
+        },
+        {
+          "id": "c8b85ffc-ad72-4b2f-9d56-24360b2d33b2",
+          "code": "ZL005A0906",
+          "title": "5号楼A座906"
+        }
+      ]
+    },
+    {
+      "id": "49026e06-b910-49ca-9df3-15b79fb2ea1a",
+      "code": "ZL005A08",
+      "title": "5号楼A座8层",
+      "subnodes": [
+        {
+          "id": "581ecacf-8a25-4b9b-9f9a-b992d9817771",
+          "code": "ZL005A0801",
+          "title": "5号楼A座801"
+        },
+        {
+          "id": "506f2409-07d0-4583-906d-554d7797af3a",
+          "code": "ZL005A0802",
+          "title": "5号楼A座802"
+        },
+        {
+          "id": "f463247a-2247-414c-a0db-64ff0864b6cb",
+          "code": "ZL005A0803",
+          "title": "5号楼A座803"
+        },
+        {
+          "id": "97af003a-b33c-4e26-85e2-1c4733b8bb6c",
+          "code": "ZL005A0804",
+          "title": "5号楼A座804"
+        },
+        {
+          "id": "82035be7-8c41-4ec3-bde2-35cfe102c16b",
+          "code": "ZL005A0805",
+          "title": "5号楼A座805"
+        },
+        {
+          "id": "bbc44c5f-81ab-4658-8eff-4c642080f03a",
+          "code": "ZL005A0806",
+          "title": "5号楼A座806"
+        }
+      ]
+    },
+    {
+      "id": "e6c618e5-e774-4e95-8fbb-0326d0a10f13",
+      "code": "ZL005A07",
+      "title": "5号楼A座7层",
+      "subnodes": [
+        {
+          "id": "80c5ccb1-9dea-4f42-b527-dbd9c4b2aaa1",
+          "code": "ZL005A0701",
+          "title": "5号楼A座701"
+        },
+        {
+          "id": "f1bbc095-cd32-4e9e-979e-6266a5e064ca",
+          "code": "ZL005A0702",
+          "title": "5号楼A座702"
+        },
+        {
+          "id": "7bfc516a-d7b2-42bf-9853-873423223ff8",
+          "code": "ZL005A0703",
+          "title": "5号楼A座703"
+        },
+        {
+          "id": "12598759-189f-429f-8b23-37667dfd4f09",
+          "code": "ZL005A0704",
+          "title": "5号楼A座704"
+        },
+        {
+          "id": "6142f1da-317e-4a09-807b-e9fec8d0b3cc",
+          "code": "ZL005A0705",
+          "title": "5号楼A座705"
+        },
+        {
+          "id": "fa327805-ae77-43c5-8d05-4bfd0bf7bc24",
+          "code": "ZL005A0706",
+          "title": "5号楼A座706"
+        }
+      ]
+    },
+    {
+      "id": "2918b19b-afb4-44cc-a4b2-126e58d2098d",
+      "code": "ZL005A06",
+      "title": "5号楼A座6层",
+      "subnodes": [
+        {
+          "id": "6915f8b3-0472-4955-b447-585553fb4589",
+          "code": "ZL005A0601",
+          "title": "5号楼A座601"
+        },
+        {
+          "id": "fe1f87c9-cc7d-4520-80ac-1da60898b798",
+          "code": "ZL005A0602",
+          "title": "5号楼A座602"
+        },
+        {
+          "id": "42764d34-6fb6-4aa1-a48f-5d15a37d5821",
+          "code": "ZL005A0603",
+          "title": "5号楼A座603"
+        },
+        {
+          "id": "278a9946-3c3f-433b-b713-6b974a3116a1",
+          "code": "ZL005A0604",
+          "title": "5号楼A座604"
+        },
+        {
+          "id": "03cd0725-ac51-42f5-a801-193d25706fcb",
+          "code": "ZL005A0605",
+          "title": "5号楼A座605"
+        },
+        {
+          "id": "d9b7ee2e-50a7-48eb-856c-d6d691afb6d7",
+          "code": "ZL005A0606",
+          "title": "5号楼A座606"
+        }
+      ]
+    },
+    {
+      "id": "4b7c6e29-d384-40d7-923a-e255f879bd68",
+      "code": "ZL005A05",
+      "title": "5号楼A座5层",
+      "subnodes": [
+        {
+          "id": "df706607-37ca-4606-978e-9a8debda23e4",
+          "code": "ZL005A0501",
+          "title": "5号楼A座501"
+        },
+        {
+          "id": "b5dcdbca-7446-40e3-9f38-0b6d9526854b",
+          "code": "ZL005A0502",
+          "title": "5号楼A座502"
+        },
+        {
+          "id": "f7bef515-7026-4cc2-b3be-d0ed1559880e",
+          "code": "ZL005A0503",
+          "title": "5号楼A座503"
+        },
+        {
+          "id": "e200680f-b2fa-43d9-983f-5ff418b54cc2",
+          "code": "ZL005A0513",
+          "title": "5号楼A座513"
+        }
+      ]
+    },
+    {
+      "id": "0da1f458-75a8-4129-a4af-caec35ee0155",
+      "code": "ZL005A04",
+      "title": "5号楼A座4层",
+      "subnodes": [
+        {
+          "id": "bc2abb22-92c0-4803-a44a-055ee51e217e",
+          "code": "ZL005A0401",
+          "title": "5号楼A座401"
+        },
+        {
+          "id": "4d6f472e-6471-4d8f-8560-8c7bb1c0e784",
+          "code": "ZL005A0402",
+          "title": "5号楼A座402"
+        },
+        {
+          "id": "f0be2000-ace9-478e-bdce-2df9fbcc884f",
+          "code": "ZL005A0403",
+          "title": "5号楼A座403"
+        },
+        {
+          "id": "3ebae283-d4e1-4f6d-b73f-caa1d0d3cedd",
+          "code": "ZL005A0413",
+          "title": "5号楼A座413"
+        }
+      ]
+    },
+    {
+      "id": "96b1e66c-9f46-4600-a27c-5410b3237017",
+      "code": "ZL005A03",
+      "title": "5号楼A座3层",
+      "subnodes": [
+        {
+          "id": "480599a9-a1e0-4a93-a30a-47003455574a",
+          "code": "ZL005A0301",
+          "title": "5号楼A座301"
+        },
+        {
+          "id": "762c7908-8442-4860-aaef-6814052bbec9",
+          "code": "ZL005A0302",
+          "title": "5号楼A座302"
+        },
+        {
+          "id": "58123aca-a7dd-4252-b827-74a50661b46d",
+          "code": "ZL005A0303",
+          "title": "5号楼A座303"
+        },
+        {
+          "id": "edacd177-73aa-458c-a411-16461d4c1015",
+          "code": "ZL005A0314",
+          "title": "5号楼A座314"
+        },
+        {
+          "id": "ff17db66-395f-4e71-a5bd-92c9492df5ac",
+          "code": "ZL005A0315",
+          "title": "5号楼A座315"
+        },
+        {
+          "id": "9d00d95a-a50d-49f4-a351-79c4de32126e",
+          "code": "ZL005A0320",
+          "title": "5号楼A座320"
+        }
+      ]
+    },
+    {
+      "id": "2c07f94a-06f6-48c4-b01f-3fb9569de5d0",
+      "code": "QL00502",
+      "title": "5号楼裙楼2层",
+      "subnodes": [
+        {
+          "id": "f6ae46e7-e50f-454f-8cc3-b68ae32bd486",
+          "code": "QL0050201",
+          "title": "5号楼201"
+        }
+      ]
+    },
+    {
+      "id": "5a57df59-5460-4a56-9011-edc35767443b",
+      "code": "SYDS0501",
+      "title": "5号楼底商1层",
+      "subnodes": [
+        {
+          "id": "c3a7cd1d-af03-4bba-b546-38be4f14f5c3",
+          "code": "SYDS050101",
+          "title": "5号楼底商101"
+        },
+        {
+          "id": "9acce8c6-497d-47f0-9324-5b18f1999521",
+          "code": "SYDS050102",
+          "title": "5号楼底商102"
+        },
+        {
+          "id": "0fd0849f-65ec-44ee-8445-774fa01098e5",
+          "code": "SYDS050103",
+          "title": "5号楼底商103"
+        },
+        {
+          "id": "1ffc464d-e669-4bbb-9061-f00315bc5b7a",
+          "code": "SYDS050104",
+          "title": "5号楼底商104"
+        },
+        {
+          "id": "d70c606c-2f7b-4473-8bd3-3091b87b3097",
+          "code": "SYDS050105",
+          "title": "5号楼底商105"
+        },
+        {
+          "id": "8a545284-c4ea-4da8-aa60-81ae5c846e9a",
+          "code": "SYDS050106",
+          "title": "5号楼底商106"
+        },
+        {
+          "id": "61f641ad-ebd1-4628-ab37-40e0c18336d2",
+          "code": "SYDS050107",
+          "title": "5号楼底商107"
+        },
+        {
+          "id": "960b144a-80eb-42bb-b5ec-3439f8145fbb",
+          "code": "SYDS050108",
+          "title": "5号楼底商108"
+        },
+        {
+          "id": "28b61120-19da-4809-adf6-7020b4e71c15",
+          "code": "SYDS050109",
+          "title": "5号楼底商109"
+        },
+        {
+          "id": "eb28ecbc-0fcb-4cb1-8e0b-b67ffc589995",
+          "code": "SYDS050110",
+          "title": "5号楼底商110"
+        }
+      ]
+    },
+    {
+      "id": "4bd8c460-ffeb-4b37-8ecb-651b32292ac8",
+      "code": "ZL005B11",
+      "title": "5号楼B座11层",
+      "subnodes": [
+        {
+          "id": "0591eac2-9872-437c-ae4a-a2cd67503207",
+          "code": "ZL005B01101",
+          "title": "5号楼B座1101"
+        },
+        {
+          "id": "3778df03-0915-458e-b4c7-3bcb41d789d0",
+          "code": "ZL005B01102",
+          "title": "5号楼B座1102"
+        },
+        {
+          "id": "3e939401-bc31-4539-a195-0024c6de31ad",
+          "code": "ZL005B01103",
+          "title": "5号楼B座1103"
+        },
+        {
+          "id": "4b8abbce-d298-4b5c-afb4-3d8d842904a0",
+          "code": "ZL005B01104",
+          "title": "5号楼B座1104"
+        },
+        {
+          "id": "98efc464-7548-4e57-8207-73768cbf7038",
+          "code": "ZL005B01105",
+          "title": "5号楼B座1105"
+        }
+      ]
+    },
+    {
+      "id": "c7d2a579-fecb-41c7-b9fc-4cb9147847ee",
+      "code": "ZL005B10",
+      "title": "5号楼B座10层",
+      "subnodes": [
+        {
+          "id": "dcb3b4ab-6bf6-48f4-ab72-152ee3d9fc7b",
+          "code": "ZL005B01001",
+          "title": "5号楼B座1001"
+        },
+        {
+          "id": "ea47804c-41ed-4d49-ac1e-270f5449e7ea",
+          "code": "ZL005B01002",
+          "title": "5号楼B座1002"
+        },
+        {
+          "id": "022ceb29-4666-415f-b88e-9b3e779a6704",
+          "code": "ZL005B01003",
+          "title": "5号楼B座1003"
+        },
+        {
+          "id": "0c3ac45e-8aba-4ff1-b448-a72fb99b2906",
+          "code": "ZL005B01004",
+          "title": "5号楼B座1004"
+        },
+        {
+          "id": "32c96359-1ce5-43f1-a5d7-9b1cd3ce6efa",
+          "code": "ZL005B01005",
+          "title": "5号楼B座1005"
+        }
+      ]
+    },
+    {
+      "id": "75356399-3cea-4768-a20e-cf85deef2167",
+      "code": "ZL005B09",
+      "title": "5号楼B座9层",
+      "subnodes": [
+        {
+          "id": "c9dc9c2b-eb0f-4479-a904-3220977c104e",
+          "code": "ZL005B0901",
+          "title": "5号楼B座901"
+        },
+        {
+          "id": "3da11fa2-a4d6-4876-b534-e448c67ba379",
+          "code": "ZL005B0902",
+          "title": "5号楼B座902"
+        },
+        {
+          "id": "7756c41d-a689-4aff-99af-d678126b6d83",
+          "code": "ZL005B0903",
+          "title": "5号楼B座903"
+        },
+        {
+          "id": "6c72067b-21e5-4018-be0b-5924e23714cd",
+          "code": "ZL005B0904",
+          "title": "5号楼B座904"
+        },
+        {
+          "id": "839f6350-2d2f-4dfc-895c-d1dc902d671a",
+          "code": "ZL005B0905",
+          "title": "5号楼B座905"
+        }
+      ]
+    },
+    {
+      "id": "062a3647-9f61-446f-a8d8-99ae9dc08d2c",
+      "code": "ZL005B08",
+      "title": "5号楼B座8层",
+      "subnodes": [
+        {
+          "id": "d6fe4fcc-0883-4705-9c7a-580c59b8490d",
+          "code": "ZL005B0801",
+          "title": "5号楼B座801"
+        },
+        {
+          "id": "4356f83f-ba22-4d28-913a-a7571a002ba9",
+          "code": "ZL005B0802",
+          "title": "5号楼B座802"
+        },
+        {
+          "id": "2fd5500b-6ee8-4709-9616-c5291d74c833",
+          "code": "ZL005B0803",
+          "title": "5号楼B座803"
+        },
+        {
+          "id": "4746facb-9e73-4e17-af83-87c090dedbee",
+          "code": "ZL005B0804",
+          "title": "5号楼B座804"
+        },
+        {
+          "id": "46572460-b436-4e72-8ef0-057a99c6da9b",
+          "code": "ZL005B0805",
+          "title": "5号楼B座805"
+        }
+      ]
+    },
+    {
+      "id": "739994cb-fe06-444a-ac1f-1b3924c4e039",
+      "code": "ZL005B07",
+      "title": "5号楼B座7层",
+      "subnodes": [
+        {
+          "id": "c1be9a05-e66f-407a-a25b-b11d4f38466f",
+          "code": "ZL005B0701",
+          "title": "5号楼B座701"
+        },
+        {
+          "id": "88af968b-3b67-4433-ade8-b9b6aee38d91",
+          "code": "ZL005B0702",
+          "title": "5号楼B座702"
+        },
+        {
+          "id": "a7364f6a-5a54-49a6-80db-95225f181351",
+          "code": "ZL005B0703",
+          "title": "5号楼B座703"
+        },
+        {
+          "id": "9e94773a-268d-46fd-b393-33e6d8bff626",
+          "code": "ZL005B0704",
+          "title": "5号楼B座704"
+        },
+        {
+          "id": "263b58ae-b884-406b-94d1-95f25de8a685",
+          "code": "ZL005B0705",
+          "title": "5号楼B座705"
+        }
+      ]
+    },
+    {
+      "id": "3af5f814-4839-46c4-b9ed-c1d6fc19fdaa",
+      "code": "ZL005B06",
+      "title": "5号楼B座6层",
+      "subnodes": [
+        {
+          "id": "9871b575-39d2-41e6-bdbf-aef8f165ae7e",
+          "code": "ZL005B0601",
+          "title": "5号楼B座601"
+        },
+        {
+          "id": "db8fbe3e-9a4a-42ce-9a85-044245cf2313",
+          "code": "ZL005B0602",
+          "title": "5号楼B座602"
+        },
+        {
+          "id": "7e03806f-c59b-4839-8e3f-8b728a6fb8e4",
+          "code": "ZL005B0603",
+          "title": "5号楼B座603"
+        },
+        {
+          "id": "a8274532-08b8-4c2f-9c31-1b613c1f6778",
+          "code": "ZL005B0604",
+          "title": "5号楼B座604"
+        },
+        {
+          "id": "2972bcf4-f417-4d89-bf8c-cc1991dd9751",
+          "code": "ZL005B0605",
+          "title": "5号楼B座605"
+        }
+      ]
+    },
+    {
+      "id": "36c471b8-a0b5-4c3d-b78d-12c2a51d4031",
+      "code": "ZL005B05",
+      "title": "5号楼B座5层",
+      "subnodes": [
+        {
+          "id": "748767bc-d972-4c8b-821f-d2162527ff36",
+          "code": "ZL005B0504",
+          "title": "5号楼B座504"
+        },
+        {
+          "id": "695fb237-71f4-48cb-9a67-f277ae210b31",
+          "code": "ZL005B0505",
+          "title": "5号楼B座505"
+        },
+        {
+          "id": "ad4e33e8-d594-4ffc-9936-187c3bf16608",
+          "code": "ZL005B0506",
+          "title": "5号楼B座506"
+        },
+        {
+          "id": "9ae12410-ff21-4068-99d2-da12655473ab",
+          "code": "ZL005B0507",
+          "title": "5号楼B座507"
+        },
+        {
+          "id": "b7731599-2571-40a7-9e47-35d85dd973e3",
+          "code": "ZL005B0508",
+          "title": "5号楼B座508"
+        },
+        {
+          "id": "e1c23ab8-dd62-4c94-93c1-74c9262ff058",
+          "code": "ZL005B0509",
+          "title": "5号楼B座509"
+        },
+        {
+          "id": "695003fb-5c40-4b68-b205-042eae8a14e5",
+          "code": "ZL005B0510",
+          "title": "5号楼B座510"
+        },
+        {
+          "id": "0e6b3ea3-9935-460d-8fac-2ee873c97e91",
+          "code": "ZL005B0511",
+          "title": "5号楼B座511"
+        },
+        {
+          "id": "44185882-1461-4379-b02e-3c0416d96b11",
+          "code": "ZL005B0512",
+          "title": "5号楼B座512"
+        },
+        {
+          "id": "0f0b3118-83c7-4e7f-bb70-7a0f6f3b9dee",
+          "code": "ZL005B0514",
+          "title": "5号楼B座514"
+        },
+        {
+          "id": "9f715505-2591-43f8-aed6-063d871adcd4",
+          "code": "ZL005B0515",
+          "title": "5号楼B座515"
+        },
+        {
+          "id": "9e433b99-c258-4ef1-8ca0-1938df8348c5",
+          "code": "ZL005B0516",
+          "title": "5号楼B座516"
+        },
+        {
+          "id": "29e66412-d78b-49d2-a288-6fae533b631d",
+          "code": "ZL005B0517",
+          "title": "5号楼B座517"
+        }
+      ]
+    },
+    {
+      "id": "bff1bde0-6cec-4f28-a199-a017e83acbcf",
+      "code": "ZL005B04",
+      "title": "5号楼B座4层",
+      "subnodes": [
+        {
+          "id": "bdc12b0c-ac59-4e64-bfb4-a80e13b831f5",
+          "code": "ZL005B0404",
+          "title": "5号楼B座404"
+        },
+        {
+          "id": "16dcb46d-1bd7-4f01-a073-338cf590b52d",
+          "code": "ZL005B0405",
+          "title": "5号楼B座405"
+        },
+        {
+          "id": "d0ff91dd-cda0-4790-bd04-751d9c60e939",
+          "code": "ZL005B0406",
+          "title": "5号楼B座406"
+        },
+        {
+          "id": "bf6ba37e-e7ea-4759-954f-4b02e8b09cb1",
+          "code": "ZL005B0407",
+          "title": "5号楼B座407"
+        },
+        {
+          "id": "4850b655-6442-41a1-9bde-0f864ff4d0c7",
+          "code": "ZL005B0408",
+          "title": "5号楼B座408"
+        },
+        {
+          "id": "98779d23-58ba-463e-8155-07dc72c0e2f6",
+          "code": "ZL005B0409",
+          "title": "5号楼B座409"
+        },
+        {
+          "id": "cc70dc78-d7fb-4ffc-bff2-ce337d0e2307",
+          "code": "ZL005B0410",
+          "title": "5号楼B座410"
+        },
+        {
+          "id": "cd0f8c2e-8907-42be-8e66-c4e06a578687",
+          "code": "ZL005B0411",
+          "title": "5号楼B座411"
+        },
+        {
+          "id": "de484983-a619-4ed5-a5e1-7298d61735d7",
+          "code": "ZL005B0412",
+          "title": "5号楼B座412"
+        },
+        {
+          "id": "773b2a7b-5c0e-43d9-a074-4202c4054c39",
+          "code": "ZL005B0414",
+          "title": "5号楼B座414"
+        },
+        {
+          "id": "a96c75e9-4b5a-4892-8258-bcefb886088f",
+          "code": "ZL005B0415",
+          "title": "5号楼B座415"
+        },
+        {
+          "id": "0867f236-9fd2-4ca5-9741-f48f032b597f",
+          "code": "ZL005B0416",
+          "title": "5号楼B座416"
+        },
+        {
+          "id": "11d237be-a2a2-47ce-951f-bd0fa73f9764",
+          "code": "ZL005B0417",
+          "title": "5号楼B座417"
+        }
+      ]
+    },
+    {
+      "id": "b98a9b34-ffb0-478d-a0fb-5cd230ad98a2",
+      "code": "ZL005B03",
+      "title": "5号楼B座3层",
+      "subnodes": [
+        {
+          "id": "f626ff12-f4cf-43d9-b97e-e994f2f9e74a",
+          "code": "ZL005B0304",
+          "title": "5号楼B座304"
+        },
+        {
+          "id": "980e3f0f-de9e-42e1-b8ac-1ff17ec6b851",
+          "code": "ZL005B0305",
+          "title": "5号楼B座305"
+        },
+        {
+          "id": "2865429c-ff4e-4567-996f-b19d89e3cc94",
+          "code": "ZL005B0306",
+          "title": "5号楼B座306"
+        },
+        {
+          "id": "636d4a5a-decc-4141-adff-b3971f125f8b",
+          "code": "ZL005B0307",
+          "title": "5号楼B座307"
+        },
+        {
+          "id": "121c5b1b-0b3d-4da3-a573-e55b7bad0c49",
+          "code": "ZL005B0308",
+          "title": "5号楼B座308"
+        },
+        {
+          "id": "9492628e-4c4e-41f2-8046-a0f3248314c7",
+          "code": "ZL005B0309",
+          "title": "5号楼B座309"
+        },
+        {
+          "id": "24a53c59-76ca-47f6-8d95-825fd0d70693",
+          "code": "ZL005B0310",
+          "title": "5号楼B座310"
+        },
+        {
+          "id": "50cbbf17-9245-45db-9dd0-dfe2f2941463",
+          "code": "ZL005B0311",
+          "title": "5号楼B座311"
+        },
+        {
+          "id": "265b7f89-ab39-4332-a675-ffe87f48dfdd",
+          "code": "ZL005B0312",
+          "title": "5号楼B座312"
+        },
+        {
+          "id": "561a6fda-d2f2-4f9c-a175-c38245828c80",
+          "code": "ZL005B0313",
+          "title": "5号楼B座313"
+        },
+        {
+          "id": "8bf24b34-fd6f-4491-9786-91aea0efe235",
+          "code": "ZL005B0316",
+          "title": "5号楼B座316"
+        },
+        {
+          "id": "f04f6bba-e17a-4d34-81eb-cc74f03f4795",
+          "code": "ZL005B0317",
+          "title": "5号楼B座317"
+        },
+        {
+          "id": "3a170f7c-aa8f-4dfd-a0a3-c377858bfd0b",
+          "code": "ZL005B0318",
+          "title": "5号楼B座318"
+        },
+        {
+          "id": "0201febe-dcc6-4fdf-9af6-68fe1ddc298b",
+          "code": "ZL005B0319",
+          "title": "5号楼B座319"
+        }
+      ]
+    }
+  ],
+  "六号楼": [
+    {
+      "id": "87f03826-0831-4174-8f61-b3a8a16b30ea",
+      "code": "SYDS0601",
+      "title": "6号楼底商1层",
+      "subnodes": [
+        {
+          "id": "b3d1c970-6df5-4d3b-ad41-906683c2258f",
+          "code": "SYDS060105",
+          "title": "6号楼底商105"
+        }
+      ]
+    },
+    {
+      "id": "fef3be23-9025-4f62-9266-62e50c6e55a5",
+      "code": "ZL00614",
+      "title": "6号楼14层",
+      "subnodes": [
+        {
+          "id": "8cbedcd6-52b6-4796-8941-52f5bdf7f8d6",
+          "code": "ZL0061401",
+          "title": "6号楼1401"
+        }
+      ]
+    },
+    {
+      "id": "97bbbb46-0be4-4b9b-9687-6d59707fd52a",
+      "code": "ZL00613",
+      "title": "6号楼13层",
+      "subnodes": [
+        {
+          "id": "c4743fd4-f0fc-43bb-ba8e-d5a7685d0c6d",
+          "code": "ZL0061301",
+          "title": "6号楼1301"
+        }
+      ]
+    },
+    {
+      "id": "8bc0b0e2-ee4d-41d4-8878-4a7938000dd2",
+      "code": "ZL00612",
+      "title": "6号楼12层",
+      "subnodes": [
+        {
+          "id": "f43dd39e-944d-4f42-a228-c775ca09a2f0",
+          "code": "ZL0061201",
+          "title": "6号楼1201"
+        }
+      ]
+    },
+    {
+      "id": "d371ce5a-f80e-4330-aaa2-e2f1057f1ed5",
+      "code": "ZL00611",
+      "title": "6号楼11层",
+      "subnodes": [
+        {
+          "id": "8915cf25-d016-4155-a8ff-9b6e321b318f",
+          "code": "ZL0061101",
+          "title": "6号楼1101"
+        }
+      ]
+    },
+    {
+      "id": "8afa4424-bc29-45ff-87d9-bf5c1ff5a99b",
+      "code": "ZL00610",
+      "title": "6号楼10层",
+      "subnodes": [
+        {
+          "id": "e0edc025-0c34-44da-8290-0e872b4cfb2b",
+          "code": "ZL0061001",
+          "title": "6号楼1001"
+        }
+      ]
+    },
+    {
+      "id": "228430b5-68f1-4f14-9975-8705eac241f1",
+      "code": "ZL00609",
+      "title": "6号楼9层",
+      "subnodes": [
+        {
+          "id": "f7f9f0a2-c415-4221-80c2-acb1743f2e90",
+          "code": "ZL0060901",
+          "title": "6号楼901"
+        }
+      ]
+    },
+    {
+      "id": "78176c13-c201-4568-9ed3-ac7a3233929d",
+      "code": "ZL00608",
+      "title": "6号楼8层",
+      "subnodes": [
+        {
+          "id": "0f661c4c-9790-4535-adc5-27965def7a54",
+          "code": "ZL0060801",
+          "title": "6号楼801"
+        }
+      ]
+    },
+    {
+      "id": "a050510a-7b17-4ea9-91ee-83d230b35086",
+      "code": "ZL00607",
+      "title": "6号楼7层",
+      "subnodes": [
+        {
+          "id": "b9b0484e-afc3-4d98-8eac-f624f29dd0ce",
+          "code": "ZL0060701",
+          "title": "6号楼701"
+        }
+      ]
+    },
+    {
+      "id": "fac4a5b8-e31e-4313-ac4a-6b593af7b4be",
+      "code": "ZL00606",
+      "title": "6号楼6层",
+      "subnodes": [
+        {
+          "id": "479c4918-3167-41ea-9706-daea57a005b5",
+          "code": "ZL0060601",
+          "title": "6号楼601"
+        }
+      ]
+    },
+    {
+      "id": "49ecd45e-52bf-40bc-bfdf-78ab5ece7c8e",
+      "code": "ZL00605",
+      "title": "6号楼5层",
+      "subnodes": [
+        {
+          "id": "6af7516d-6c6c-4279-aef0-5569abf07c4c",
+          "code": "ZL0060501",
+          "title": "6号楼501"
+        }
+      ]
+    },
+    {
+      "id": "5a9eeeb4-9162-4ddb-98de-90cabf40cd2d",
+      "code": "ZL00604",
+      "title": "6号楼4层",
+      "subnodes": [
+        {
+          "id": "ee75d0c3-3bd1-40a5-8498-11fc679600cc",
+          "code": "ZL0060401",
+          "title": "6号楼401"
+        }
+      ]
+    },
+    {
+      "id": "0812013c-07d7-469c-aa03-7717dd6ab6ed",
+      "code": "ZL00603",
+      "title": "6号楼3层",
+      "subnodes": [
+        {
+          "id": "6827e7ae-c3e2-4448-a427-5631ed366489",
+          "code": "ZL0060301",
+          "title": "6号楼301"
+        }
+      ]
+    }
+  ]
+}

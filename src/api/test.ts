@@ -78,3 +78,13 @@ export function testApi() {
     'https://restapi.amap.com/v3/geocode/regeo?platform=JS&s=rsv3&logversion=2.0&key=89a304b584bb422b440798b454a02c6c&sdkversion=2.0.5.16&appname=http%253A%252F%252F192.168.239.168%253A5174%252F%2523%252Fmain&csid=EC586FB0-96E9-47A1-A0BB-36C87B53E350&jscode=42505e65c477d342a213af055dbc92e7&key=89a304b584bb422b440798b454a02c6c&s=rsv3&language=zh_cn&location=115.863072,39.047155&extensions=all&callback=jsonp_925310_1694180122551_',
   );
 }
+
+// 获取楼栋信息
+export function selectById(id:any) {
+  return axios.get(`http://10.0.118.1/backend/api/assets/rentControl/${id}/buildingInfo`);
+}
+
+// 创建楼栋
+export function createBuildingApi(data:any) {
+  return axios.post(`/address/createBuilding`, data);
+}
