@@ -1,5 +1,5 @@
 <template>
-  <div>全景图</div>
+  <div>tools</div>
 </template>
 
 <script setup></script>

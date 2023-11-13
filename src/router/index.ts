@@ -50,7 +50,7 @@ const routes: Array<RouteRecordRaw> = [
     meta: {
       title: '全景图',
     },
-    component: () => import('@/pages/qjt.vue'),
+    component: () => import('@/pages/qjt/index.vue'),
   },
   {
     path: '/t2',
