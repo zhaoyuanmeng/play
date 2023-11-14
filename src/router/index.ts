@@ -53,6 +53,14 @@ const routes: Array<RouteRecordRaw> = [
     component: () => import('@/pages/qjt/index.vue'),
   },
   {
+    path: '/qjt2',
+    name: 'Qjt2',
+    meta: {
+      title: '全景图2',
+    },
+    component: () => import('@/pages/qjt/index2.vue'),
+  },
+  {
     path: '/t2',
     name: 'Test2',
     meta: {
